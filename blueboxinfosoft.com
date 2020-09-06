@@ -1,3 +1,5 @@
+.com 	commercial
+
 IT Services and Software Development company - BlueboxInfosoft
 
 http://www.blueboxinfosoft.com/careers/job.php?id=16
