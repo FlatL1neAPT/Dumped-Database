@@ -13,3 +13,10 @@ https://www.buffalocity.gov.za/article.php?id=5abe1d4
 [+] performance_schema
 [+] sys
 
++------------+---------+---------+-----------------------------+----------------------------------------------------------+
+| cell       | name    | surname | email                       | password                                                 |
++------------+---------+---------+-----------------------------+----------------------------------------------------------+
+| 0782256699 | Anele   | Mabona  | anelema@gmail.com           | T25KU3pNeXlra0w0QTl5U0I2SlBRZz09OjpUxaEg19ThJxYWzRtW+1iM |
+| 3070       | Tembela | Siswana | tembelas@buffalocity.gov.za | SVJvZWNxbUNDakZZaHViOHlRNllCdz09Ojo8xGgWaeVzpRz4/nJrARTx |
+| 3262       | Demo    | User    | info@buffalocity.gov.za     | NkRFSS96WG56Y1lxSEVqK2Q3T2tPdz09OjoerAniP5ccItqOBe9SR+ZP |
++------------+---------+---------+-----------------------------+----------------------------------------------------------+
