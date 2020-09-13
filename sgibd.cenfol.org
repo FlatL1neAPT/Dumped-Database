@@ -6,8 +6,8 @@ Christian Formation and Leadership Centers
 
 CENFOL System
 
-Login Bypass
-
 Sign In
 
 id='=''OR'&password='=''OR'
+
+Login Bypass
