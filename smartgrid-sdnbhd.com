@@ -17,10 +17,12 @@ GIS Application, migration and data management and BIM.
 ADMS, Smart Billing application, Smart Meter Application, Network Management and Non-technical losses, Demand side response, Voltage Change Optimization.
 
 https://smartgrid-sdnbhd.com/project.php?id=5
+https://www.inovaantage.com/project.php?id=16
 
 available databases [2]:
 [+] information_schema
 [+] smartgridsdnbhd_sgdemo
+[+] inova7ah_demodb
 
 [16 tables]
 +--------------+
