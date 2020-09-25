@@ -1,9 +1,11 @@
 .com commercial
 
-Private Customer - AT&T Internet Services
+Private Customer - AT&T Corp Internet Services
   
- AT&T Corp
  
+ 
+Practıce Management Instıtute
+
 Training and Certification for Today's Medical Office Personnel
 
 Certified Medical Coder (CMC)
