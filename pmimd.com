@@ -2,8 +2,6 @@
 
 Private Customer - AT&T Corp Internet Services
   
- 
- 
 Practıce Management Instıtute
 
 Training and Certification for Today's Medical Office Personnel
