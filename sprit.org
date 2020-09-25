@@ -6,6 +6,8 @@ Web Hosting, Domains E-Mail İn Austria
 
 https://www.sprit.org/index.php?siteId=209998
 
+[+] 'myuser'@'%'
+
 available databases [2]:
 [+] information_schema
 [+] mydb
