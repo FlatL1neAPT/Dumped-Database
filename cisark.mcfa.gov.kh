@@ -1,0 +1,50 @@
+.gov government
+
+.kh Cambodia (Khmer)
+
+Khmer Archaeological Sites
+
+Ministry of Culture and Fine Arts
+
+CISARK - Arch Sites İnteraktif Haritası
+
+Organization 	Institute of Technology of Cambodia
+
+https://cisark.mcfa.gov.kh/core/showsite.php?id=1187
+
+available databases [2]:                                                                                                                                             
+[*] c0cisark
+[*] information_schema
+
+Database: c0cisark                                                                                                                                                   
+[28 tables]
++----------------------+
+| commune              |
+| contribution         |
+| district             |
+| donlocation          |
+| donnees              |
+| epoque               |
+| etat_de_conversation |
+| forme_de_site        |
+| home                 |
+| infosite_externe     |
+| infosite_interne     |
+| inscription          |
+| inv_dca              |
+| langue               |
+| link                 |
+| motcle               |
+| news                 |
+| pays                 |
+| periode              |
+| province             |
+| site_forme_rel       |
+| site_no_inscription  |
+| site_type_rel        |
+| support              |
+| tmp_user             |
+| type_de_site         |
+| utilisateurs         |
+| village              |
++----------------------+
