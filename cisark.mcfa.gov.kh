@@ -13,8 +13,8 @@ Organization: Institute of Technology of Cambodia
 https://cisark.mcfa.gov.kh/core/showsite.php?id=1187
 
 available databases [2]:                                                                                                                                             
-[*] c0cisark
-[*] information_schema
+[+] c0cisark
+[+] information_schema
 
 Database: c0cisark                                                                                                                                                   
 [28 tables]
