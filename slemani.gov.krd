@@ -19,8 +19,8 @@ Organization: LiquidNet US LLC
 http://slemani.gov.krd/so/pageDetail.php?secID=2
 
 available databases [2]:                                                                                                                                             
-[*] information_schema
-[*] wwwslema_sulgovdb
+[+] information_schema
+[+] wwwslema_sulgovdb
 
 Database: wwwslema_sulgovdb                                                                                                                                          
 [30 tables]
