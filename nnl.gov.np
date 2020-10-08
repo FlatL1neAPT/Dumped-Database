@@ -17,9 +17,9 @@ Hariharbhawan , Lalitpur
 https://www.nnl.gov.np/noticedetail.php?id=25
 
 available databases [3]:                                                                                                                                             
-[*] information_schema
-[*] nnlgov_dbase
-[*] nnlgov_newdb
+[+] information_schema
+[+] nnlgov_dbase
+[+] nnlgov_newdb
 
 Database: nnlgov_dbase                                                                                                                                               
 [28 tables]
