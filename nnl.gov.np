@@ -1,0 +1,87 @@
+.gov government 
+
+.np Nepal	
+
+ISP National Information Technology Center
+
+Organization NITC 
+
+Government Of Nepal
+
+Ministry Of Education , Science And Technology
+
+Nepal National Library
+
+Hariharbhawan, Lalitpur
+
+https://www.nnl.gov.np/noticedetail.php?id=25
+
+available databases [3]:                                                                                                                                             
+[*] information_schema
+[*] nnlgov_dbase
+[*] nnlgov_newdb
+
+Database: nnlgov_dbase                                                                                                                                               
+[28 tables]
++--------------------+
+| tblmain.bak        |
+| gallery            |
+| gallerydetails     |
+| rightphoto         |
+| tblbanner          |
+| tblbhuktani        |
+| tblcollectiongroup |
+| tblcollections     |
+| tblcontacts        |
+| tbldownloadgroup   |
+| tbldownloads       |
+| tblevents          |
+| tblfaq             |
+| tblfaq_cat         |
+| tblgrantgroup      |
+| tblgrants          |
+| tbljingle          |
+| tbllinks           |
+| tblmain            |
+| tblmenu            |
+| tblnews            |
+| tblnotice          |
+| tblrti             |
+| tblrtigroup        |
+| tbluploads         |
+| tblvideo           |
+| usertable          |
+| whoiswho           |
++--------------------+
+
+Database: nnlgov_newdb                                                                                                                                               
+[27 tables]
++--------------------+
+| gallery            |
+| gallerydetails     |
+| rightphoto         |
+| tblbanner          |
+| tblbhuktani        |
+| tblcollectiongroup |
+| tblcollections     |
+| tblcontacts        |
+| tbldownloadgroup   |
+| tbldownloads       |
+| tblevents          |
+| tblfaq             |
+| tblfaq_cat         |
+| tblgrantgroup      |
+| tblgrants          |
+| tbljingle          |
+| tbllinks           |
+| tblmain            |
+| tblmenu            |
+| tblnews            |
+| tblnotice          |
+| tblrti             |
+| tblrtigroup        |
+| tbluploads         |
+| tblvideo           |
+| usertable          |
+| whoiswho           |
++--------------------+
