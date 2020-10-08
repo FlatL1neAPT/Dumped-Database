@@ -21,3 +21,10 @@ available databases [4]:
 [+] msdb
 [+] tempdb
 [+] WFP
+
+Database: tempdb
+[2 tables]
++-----------+
+| #B21F18D4 |
+| #B4076146 |
++-----------+
