@@ -1,6 +1,6 @@
 .gov Government
 
-.ph Filipinler
+.ph Philippines
 
 ISP Bitstop Inc
 
