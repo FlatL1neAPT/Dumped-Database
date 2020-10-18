@@ -30,3 +30,84 @@ available databases [19]:
 [+] samsco_vacancy
 [+] samsfind
 [+] test
+
+Database: samsco_find                                                                                                                                                
+Table: admin
++----------+-------------------------------------------+
+| username | password                                  |
++----------+-------------------------------------------+
+| tugux    | 972923e0aae0784e770af87403e95517 (tugux)  |
+| ali      | e10adc3949ba59abbe56e057f20f883e (123456) |
+| Ali      | e10adc3949ba59abbe56e057f20f883e (123456) |
++----------+-------------------------------------------+
+
+Database: samsco_contact
+Database: samsappn
+Table: tbl_user
++----------+-------------------+-------------------------------------------------------------------------------+
+| Username | Email             | Password                                                                      |
++----------+-------------------+-------------------------------------------------------------------------------+
+| admin    | email@website.com | d82494f05d6917ba02f7aaa29689ccb444bb73f20380876cb05d1f37537b7892 (adminadmin) |
++----------+-------------------+-------------------------------------------------------------------------------+
+| admin    | email@website.com | d82494f05d6917ba02f7aaa29689ccb444bb73f20380876cb05d1f37537b7892 (adminadmin) |
++----------+-------------------+-------------------------------------------------------------------------------+
+
+Database: samsco_jobs
+Database: samsco_vacancy  
+Table: users
++------------+------------+-----------------------+--------------------------------------+
+| First_Name | Last_Name  | EmailID               | Password                             |
++------------+------------+-----------------------+--------------------------------------+
+| Sanjay     | Das        | sanjay@sams.co.in     | 234c02d67c2a61845a0ebdb44d0aadc3     |
+| Raju       | Kumar      | raju@sams.co.in       | 234c02d67c2a61845a0ebdb44d0aadc3     |
+| Kafil      | Akhtar     | kakhtar@sams.co.in    | 234c02d67c2a61845a0ebdb44d0aadc3     |
+| Puran      | Nayal      | puran@sams.co.in      | 234c02d67c2a61845a0ebdb44d0aadc3     |
+| Shabnam    | Ali        | shabnam@sams.co.in    | 234c02d67c2a61845a0ebdb44d0aadc3     |
+| Gautam     | Nath       | gnath@sams.co.in      | 234c02d67c2a61845a0ebdb44d0aadc3     |
+| Rupal      | Talwar     | rupal@sams.co.in      | 234c02d67c2a61845a0ebdb44d0aadc3     |
+| Surbhi     | Maheshwari | surbhi@sams.co.in     | 234c02d67c2a61845a0ebdb44d0aadc3     |
+| Rajashree  | Mondal     | rajashree@sams.co.in  | 234c02d67c2a61845a0ebdb44d0aadc3     |
+| Neha       | Singh      | neha@sams.co.in       | 234c02d67c2a61845a0ebdb44d0aadc3     |
+| Simranjeet | Kaur       | simranjeet@sams.co.in | 234c02d67c2a61845a0ebdb44d0aadc3     |
+| Brijesh    | Gaur       | brijesh@sams.co.in    | 234c02d67c2a61845a0ebdb44d0aadc3     |
+| Swati      | Bisht      | swati@sams.co.in      | 234c02d67c2a61845a0ebdb44d0aadc3     |
+| Vipul      | Pandey     | vipul@sams.co.in      | 234c02d67c2a61845a0ebdb44d0aadc3     |
+| Brijesh    | Gaur       | brijesh@sams.co.in    | b8778e613d53d3dfa3d4104d0bc6e8cf     |
+| Sanjay     | Das        | sanjay@sams.co.in     | c4ca4238a0b923820dcc509a6f75849b (1) |
++------------+------------+-----------------------+--------------------------------------+
+
+Database: samsco_print 
+Database: samsco_books   
+Database: samsco_upmsc                                                                                                                                               
++------------+------------+-----------------------+----------+
+| First_Name | Last_Name  | EmailID               | Password |
++------------+------------+-----------------------+----------+
+| Sanjay     | Das        | sanjay@sams.co.in     | 1        |
+| Raju       | Kumar      | raju@sams.co.in       | 1        |
+| Kafil      | Akhtar     | kakhtar@sams.co.in    | 1        |
+| Puran      | Nayal      | puran@sams.co.in      | 1        |
+| Shabnam    | Ali        | shabnam@sams.co.in    | 1        |
+| Sanjay     | Das        | sanjay@sams.co.in     | 1        |
+| Raju       | Kumar      | raju@sams.co.in       | 1        |
+| Kafil      | Akhtar     | kakhtar@sams.co.in    | 1        |
+| Puran      | Nayal      | puran@sams.co.in      | 1        |
+| Shabnam    | Ali        | shabnam@sams.co.in    | 1        |
+| Gautam     | Nath       | gnath@sams.co.in      | 1        |
+| Rupal      | Talwar     | rupal@sams.co.in      | 1        |
+| Surbhi     | Maheshwari | surbhi@sams.co.in     | 1        |
+| Rajashree  | Mondal     | rajashree@sams.co.in  | 1        |
+| Neha       | Singh      | neha@sams.co.in       | 1        |
+| Simranjeet | Kaur       | simranjeet@sams.co.in | 1        |
+| Brijesh    | Gaur       | brijesh@sams.co.in    | 1        |
+| Swati      | Bisht      | swati@sams.co.in      | 1        |
+| Naushad    | Alam       | naushad@sams.co.in    | 1        |
+| Sanjay     | Das        | sanjay@sams.co.in     | 1        |
+| Raju       | Kumar      | raju@sams.co.in       | 1        |
+| Kafil      | Akhtar     | kakhtar@sams.co.in    | 1        |
+| Puran      | Nayal      | puran@sams.co.in      | 1        |
+| Shabnam    | Ali        | shabnam@sams.co.in    | 1        |
+| Surbhi     | Maheshwari | surbhi@sams.co.in     | 1        |
+| Brijesh    | Gaur       | brijesh@sams.co.in    | 1        |
+| Neha       | Singh      | neha@sams.co.in       | 1        |
+| Simranjeet | Kaur       | simranjeet@sams.co.in | 1        |
++------------+------------+-----------------------+----------+
