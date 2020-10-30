@@ -21,8 +21,8 @@ Country: Russian Federation (RU)
 https://www.dmosk.ru/miniinstruktions.php?mini=network-netplan
 
 available databases [2]:                                                                                                                                             
-[*] dmosk_1
-[*] information_schema
+[+] dmosk_1
+[+] information_schema
 
 Database: dmosk_1                                                                                                                                                    
 [64 tables]
