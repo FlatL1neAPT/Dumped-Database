@@ -1,0 +1,37 @@
+.edu education
+
+Harvard University
+
+Harvard University Search BioNumbers - The Database of Useful Biological Numbers
+
+https://bionumbers.hms.harvard.edu/bionumber.aspx?id=113605&ver=0
+
+back-end DBMS: Microsoft SQL Server 2012 / Sybase stacked queries (comment)
+
+available databases [26]:
+[+] AmcasDES
+[+] AmpHarvard
+[+] AmpHarvardAdmissionsStudy2019
+[+] AmpHarvardMedGrad
+[+] ASPState
+[+] BioNumbers
+[+] CEPKO
+[+] ConfluenceIT
+[+] DBATools
+[+] EMS
+[+] EMS_Master
+[+] EMS_Staging
+[+] HOMERMAX
+[+] HOMERMAXQA
+[+] LAN_Desk
+[+] LAN_Desk2
+[+] master
+[+] MAX75DEV
+[+] MAX75PRD
+[+] MAX75QA
+[+] model
+[+] msdb
+[+] ReportServer
+[+] ReportServerTempDB
+[+] RSAM
+[+] tempdb
