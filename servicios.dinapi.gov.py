@@ -2,7 +2,7 @@
 
 .py Paraguay
 
-Organization: Secretaria Nacional de Tecnologias de la Información y Comunicaciones
+Organization: National Information and Communication Technologies Secretary
 
 İndustrıal Property Informatıon Consultancy Service
 
