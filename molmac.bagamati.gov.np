@@ -1,0 +1,58 @@
+.gov government
+
+.np Nepal
+
+Ministry of Land Management, Agriculture and Cooperative - Province No.3
+
+Government Of Province Ministry Of Management Agriculture Cooperative Bagamati Province Hetauda
+
+http://molmac.bagamati.gov.np/gallerydetails.php?id=12
+
+available databases [2]:                                                                                                                                             
+[+] information_schema
+[+] molmacbagamatigo_dbase
+
+Database: molmacbagamatigo_dbase                                                                                                                                     
+[40 tables]
++------------------+
+| gallery          |
+| gallerydetails   |
+| hitcounter       |
+| rightphoto       |
+| tblbanner        |
+| tblbhuktani      |
+| tblbul           |
+| tblcontacts      |
+| tbldivision      |
+| tbldownloadgroup |
+| tbldownloads     |
+| tblevents        |
+| tblfaq           |
+| tblfaq_cat       |
+| tblfcemails      |
+| tblfooter        |
+| tblfy            |
+| tblgrantgroup    |
+| tblgrants        |
+| tblicons         |
+| tblindex         |
+| tblindexeng      |
+| tbljingle        |
+| tbllastupdate    |
+| tbllinks         |
+| tbllinks2        |
+| tblmain          |
+| tblmenu          |
+| tblnews          |
+| tblnomination    |
+| tblnotice        |
+| tblnoticegroup   |
+| tblpreport       |
+| tblreport        |
+| tblslidingimage  |
+| tblsplash        |
+| tbluploads       |
+| tblvideo         |
+| usertable        |
+| whoiswho         |
++------------------+
