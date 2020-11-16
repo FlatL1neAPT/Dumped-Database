@@ -85,3 +85,23 @@ Database: nnlgov_newdb
 | usertable          |
 | whoiswho           |
 +--------------------+
+
+Database: nnlgov_dbase
+Table: usertable
+[1 entry]
++----------+----------+------------------------+
+| fullname | usern    | userp                  |
++----------+----------+------------------------+
+| <blank>  | nnlgovnp | nnlgovnp@@nnl.gov.np!! |
++----------+----------+------------------------+
+
+Database: nnlgov_newdb
+Table: usertable
+[2 entries]
++----------+---------+--------------+
+| fullname | usern   | userp        |
++----------+---------+--------------+
+| <blank>  | account | account@123# |
+| <blank>  | admin   | admin        |
++----------+---------+--------------+
+
