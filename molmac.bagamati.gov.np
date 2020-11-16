@@ -56,3 +56,13 @@ Database: molmacbagamatigo_dbase
 | usertable        |
 | whoiswho         |
 +------------------+
+
+Database: molmacbagamatigo_dbase                                                                                                                                     
+Table: usertable
+[2 entries]
++----------+-----------+----------------------+
+| fullname | usern     | userp                |
++----------+-----------+----------------------+
+| admin    | admin@123 | molmac@bagamati#4321 |
+| <blank>  | account   | account@123#         |
++----------+-----------+----------------------+
