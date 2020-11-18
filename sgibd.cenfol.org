@@ -28,8 +28,6 @@ Database: movetejo_sgibd
 
 CENFOL System CENFOL Labs
 
-Sign In
-
 id='=''OR'&password='=''OR'
 
 Sql Login Bypass
