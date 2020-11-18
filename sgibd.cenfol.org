@@ -1,14 +1,12 @@
 .org establishment organization
 
-sgibd.cenfol.org
+http://sgibd.cenfol.org/
 
 Christian Church
 
 CENFOL - Christian Formation and Leadership Centers - CENFOL
 
-CENFOL Labs
-
-CENFOL System
+CENFOL System / CENFOL Labs
 
 Sign In
 
