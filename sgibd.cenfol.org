@@ -1,8 +1,10 @@
-.org establishment,organization
+.org establishment organization
 
 sgibd.cenfol.org
 
-Christian Formation and Leadership Centers
+Christian Church
+
+CENFOL - Christian Formation and Leadership Centers - CENFOL 
 
 CENFOL System
 
