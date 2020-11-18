@@ -8,10 +8,6 @@ CENFOL - Christian Formation and Leadership Centers - CENFOL
 
 CENFOL System / CENFOL Labs
 
-Parameter: id (POST)
-
-Title: MySQL >= 5.0.12 AND time-based blind (query SLEEP)
-    
 the back-end DBMS: MySQL >= 5.0.12 (Percona fork)
 
 available databases [2]:
