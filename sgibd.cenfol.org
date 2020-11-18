@@ -9,13 +9,11 @@ http://sgibd.cenfol.org/
 Title: MySQL >= 5.0.12 AND time-based blind (query SLEEP)
 
 the back-end DBMS: MySQL >= 5.0.12 (Percona fork)
-"
+
 available databases [2]:
 [+] information_schema
 [+] movetejo_sgibd
-"
 
-"
 Database: movetejo_sgibd
 [7 tables]
 +-----------------+
@@ -27,7 +25,7 @@ Database: movetejo_sgibd
 | movimientos     |
 | sede            |
 +-----------------+
-"
+
 
 CENFOL System CENFOL Labs
 
