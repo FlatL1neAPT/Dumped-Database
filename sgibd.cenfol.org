@@ -4,9 +4,9 @@ Christian Church
 
 CENFOL - Christian Formation and Leadership Centers - CENFOL
 
-CENFOL System CENFOL Labs
+http://sgibd.cenfol.org/
 
-http://sgibd.cenfol.org/home.php
+the back-end DBMS: MySQL >= 5.0.12 (Percona fork)
 
 available databases [2]:
 [+] information_schema
@@ -23,6 +23,8 @@ Database: movetejo_sgibd
 | movimientos     |
 | sede            |
 +-----------------+
+
+CENFOL System CENFOL Labs
 
 Sign In
 
