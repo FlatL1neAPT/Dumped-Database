@@ -1,12 +1,12 @@
 .org establishment organization
 
-http://sgibd.cenfol.org/
-
 Christian Church
 
 CENFOL - Christian Formation and Leadership Centers - CENFOL
 
 CENFOL System / CENFOL Labs
+
+http://sgibd.cenfol.org/
 
 the back-end DBMS: MySQL >= 5.0.12 (Percona fork)
 
