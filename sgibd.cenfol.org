@@ -16,6 +16,7 @@ available databases [2]:
 
 Database: movetejo_sgibd
 [7 tables]
+
 +-----------------+
 | administradores |
 | capacitaciones  |
