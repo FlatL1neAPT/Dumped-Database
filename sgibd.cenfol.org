@@ -6,7 +6,7 @@ CENFOL - Christian Formation and Leadership Centers - CENFOL
 
 CENFOL System / CENFOL Labs
 
-http://sgibd.cenfol.org
+sgibd.cenfol.org
 
 the back-end DBMS: MySQL >= 5.0.12 (Percona fork)
 
