@@ -1,3 +1,5 @@
+.gov government
+
 .bf Burkina Faso
 
 ISP: Onatel Burkina Faso
