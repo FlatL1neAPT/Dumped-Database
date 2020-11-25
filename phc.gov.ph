@@ -197,13 +197,22 @@ Database: pg_catalog
 | pg_type        |
 +----------------+
 
+Database: pg_catalog
+Table: pg_shadow
+[2 entries]
++---------+-------------------------------------+
+| usename | passwd                              |
++---------+-------------------------------------+
+| phcfin  | md5bad31416ebd3f58ad65fd1ae131b2364 |
+| phcweb  | md5bfe0e0f0fcd9d11291af73f9ffabb023 |
++---------+-------------------------------------+
+
 Database: public                                                                                                                                                     
 Table: ref_auth_user
 [1935 entries]
 +-------------------------+------------------------------------------------+
 | user_name               | user_cryptpassword                             |
 +-------------------------+------------------------------------------------+
-[08:15:29] [WARNING] console output will be trimmed to last 256 rows due to large table size
 | ERCURABO                | fe01ce2a7fbac8fafaed7c982a04e229 (demo)        |
 | acurtero                | fe01ce2a7fbac8fafaed7c982a04e229 (demo)        |
 | sacuya                  | fe01ce2a7fbac8fafaed7c982a04e229 (demo)        |
