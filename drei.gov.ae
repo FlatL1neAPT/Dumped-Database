@@ -1,0 +1,81 @@
+.gov government
+
+.ae United Arab Emirates
+
+Dubai Real Estate Institute
+
+Dubai Land Department
+
+https://drei.gov.ae/default.aspx?PageId=247&CatID=2
+
+the back-end DBMS is Microsoft SQL Server 2016
+
+available databases [68]:
+[*] AppMng_Service_DB_5476df0754d742ffa367d3f5bcdaccee
+[*] AppMng_Service_DB_97ad429548734f24976dc5dde4cded92
+[*] Bdc_Service_DB_77a2de4470ef4d15815a5db59f40583a
+[*] Bdc_Service_DB_f83b6b6a9b0246168d27007200aaa108
+[*] dbFiles
+[*] DevStrategyDB
+[*] DevStrategyNew
+[*] DLD-Live-Web-DB2
+[*] DLDStrategy
+[*] DLDTemp
+[*] DREIDBT
+[*] DREIDEVDB
+[*] DREIN
+[*] LiveWeb_ContentTFS
+[*] LiveWeb_ContentTFSVers
+[*] Managed Metadata Service_0c91b4bbfd76476a88de2432491b027a
+[*] Managed Metadata Service_f8daa15ff0df4ccc822d94ef7dfd933f
+[*] master
+[*] model
+[*] msdb
+[*] PerformancePoint Service Application_7d9c2e3c08004365872099fab1421b88
+[*] PerformancePoint Service Application_ef5661fbb5354f98bd3e8817666e0c73
+[*] ReportServer
+[*] ReportServerTempDB
+[*] Search_Service_Application_AnalyticsReportingStoreDB_1203be02af1b4aeb8c9bb0b6663438f3
+[*] Search_Service_Application_AnalyticsReportingStoreDB_d46736f9bd464c05be2529d4a229f3a7
+[*] Search_Service_Application_CrawlStoreDB_6f71c181bfee406a82607d9a3cc116a9
+[*] Search_Service_Application_CrawlStoreDB_9c06282349204a8aa2357657bd4542ad
+[*] Search_Service_Application_DB_6f784b9393b54c2ebbf1f24a368081d1
+[*] Search_Service_Application_DB_9abf4cea02924283877a77a924b86dd6
+[*] Search_Service_Application_LinksStoreDB_24a59b6508ea4a2293d6d3152e92c56a
+[*] Search_Service_Application_LinksStoreDB_707c6aa43c684c3ebba20872e50954ea
+[*] Secure_Store_Service_DB_cf74de1a03804bbf87956b5658687db1
+[*] Secure_Store_Service_DB_f9825d816a8745c69545dea2ea606d9e
+[*] SharePoint_AdminContent_1dc0d523-2895-48ab-bad6-212499ff6c81
+[*] SharePoint_AdminContent_6ebfd30f-65d6-409d-9166-47500c5da082
+[*] SharePoint_AdminContent_ffedeb80-e8d9-4306-bfc5-cf82c8fd38f5
+[*] SharePoint_Config
+[*] SharePoint_Config_Internal_Portal
+[*] SharePoint_Config_NewConfig
+[*] SharePoint_Config_Recovered
+[*] SharePoint_ConfigNew
+[*] SharePoint_ConfigPortal
+[*] StateService_693b08d54bdb41caad4bd76934a33f7c
+[*] StateService_de5f4b819c6b41cb9d1d50db35fe3780
+[*] tempdb
+[*] TranslationService_3c93dc7fa29b464bba48b812c2e30cc0
+[*] TranslationService_96b4f71f14914836b241f0d6d871f5fb
+[*] User Profile Service Application_ProfileDB_1c3dc50ce9b443d7bc21de0ef07754f7
+[*] User Profile Service Application_ProfileDB_25dcc30b7a19453eb1660602e0d7fedb
+[*] User Profile Service Application_SocialDB_a4f05f2012d04458a61af5d6148aaeed
+[*] User Profile Service Application_SocialDB_f71e408d6327404f9a3fb6ece8a2a157
+[*] User Profile Service Application_SyncDB_270ab4c57ddc4ad3a74d3176e97dbe90
+[*] User Profile Service Application_SyncDB_d0bc5a542a0c44aeb8cc94db70aae419
+[*] WordAutomationServices_5911b8c6dc3a46dfb703ef95d563f80f
+[*] WordAutomationServices_84f25ed67abb43f6a96c5a0c088a6abe
+[*] WSS_Content
+[*] WSS_Content1234
+[*] WSS_Content_0681898295b14261a91514bdf8cb1d69
+[*] WSS_Content_1e48bce78ca0429f8239cfd0598d3a25
+[*] WSS_Content_2182479daa14411dafabc122c8e855ee
+[*] WSS_Content_4b902c71b36043d08e9c479aeaa54bda
+[*] WSS_Content_a915a4a36eaf49ce8015ac25a57803e7
+[*] WSS_Content_c2ee91c1518e4aafb22d34ce35bf2268
+[*] WSS_Content_cd29f471c8034453a08e9187de7567c6
+[*] WSS_Content_fc968c287fb849b784d1cb3e9ec69bfb
+[*] WSS_Logging
+[*] WSS_Logging_556d7b15b6a14e02b9ea68ec7b33d033
