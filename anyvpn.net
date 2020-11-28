@@ -1,0 +1,251 @@
+https://www.anyvpn.net/read2.php?id=104&no=0
+
+AnyVPN [SSL, SSTP, IKEv2] VPN
+
+available databases [6]:                                                                                                                                             
+[+] ball
+[+] board
+[+] information_schema
+[+] mysql
+[+] radius
+[+] test
+
+Database: mysql                                                                                                                                                      
+[23 tables]
++---------------------------+
+| user                      |
+| columns_priv              |
+| db                        |
+| event                     |
+| func                      |
+| general_log               |
+| help_category             |
+| help_keyword              |
+| help_relation             |
+| help_topic                |
+| host                      |
+| ndb_binlog_index          |
+| plugin                    |
+| proc                      |
+| procs_priv                |
+| servers                   |
+| slow_log                  |
+| tables_priv               |
+| time_zone                 |
+| time_zone_leap_second     |
+| time_zone_name            |
+| time_zone_transition      |
+| time_zone_transition_type |
++---------------------------+
+
+Database: ball                                                                                                                                                       
+Table: ball
+[43 columns]
++--------------+-------------+
+| Column       | Type        |
++--------------+-------------+
+| axis         | varchar(50) |
+| bcolor       | varchar(50) |
+| bname        | varchar(50) |
+| bottomwt     | varchar(50) |
+| deg          | varchar(50) |
+| fingerinsert | varchar(50) |
+| gripco       | varchar(50) |
+| gripfi       | varchar(50) |
+| gripot       | varchar(50) |
+| gripse       | varchar(50) |
+| id           | bigint(20)  |
+| initals      | varchar(50) |
+| lefthand     | varchar(50) |
+| neg          | varchar(50) |
+| notes        | mediumtext  |
+| r11          | mediumtext  |
+| r12          | mediumtext  |
+| r13          | mediumtext  |
+| r14          | mediumtext  |
+| r15          | mediumtext  |
+| r16          | mediumtext  |
+| r17          | mediumtext  |
+| r18          | mediumtext  |
+| r19          | mediumtext  |
+| r20          | mediumtext  |
+| r21          | mediumtext  |
+| r22          | mediumtext  |
+| r23          | mediumtext  |
+| r24          | mediumtext  |
+| r25          | mediumtext  |
+| righthand    | varchar(50) |
+| sidewt       | varchar(50) |
+| singerwt     | varchar(50) |
+| sno          | varchar(50) |
+| specinsert   | varchar(50) |
+| subject      | varchar(50) |
+| thumbwt      | varchar(50) |
+| timechange   | timestamp   |
+| timecreate   | timestamp   |
+| topwt        | varchar(50) |
+| username     | varchar(50) |
+| vert         | varchar(50) |
+| wt           | varchar(50) |
++--------------+-------------+
+
+Database: board                                                                                                                                                      
+[156 tables]
++------------------------------+
+| a_tn1_root_ad                |
+| a_tn1_root_cnt               |
+| a_tn1_root_dia               |
+| a_tn1_root_tmp               |
+| a_tn2_allvpndata_ad          |
+| a_tn2_allvpndata_cnt         |
+| a_tn2_allvpndata_list        |
+| a_tn2_allvpndata_re          |
+| a_tn2_allvpnfaq_ad           |
+| a_tn2_allvpnfaq_cnt          |
+| a_tn2_allvpnfaq_list         |
+| a_tn2_allvpnfaq_re           |
+| a_tn2_allvpnfree_ad          |
+| a_tn2_allvpnfree_cnt         |
+| a_tn2_allvpnfree_list        |
+| a_tn2_allvpnfree_re          |
+| a_tn2_allvpnnotice_ad        |
+| a_tn2_allvpnnotice_cnt       |
+| a_tn2_allvpnnotice_list      |
+| a_tn2_allvpnnotice_re        |
+| a_tn2_allvpnqnotice_ad       |
+| a_tn2_allvpnqnotice_cnt      |
+| a_tn2_allvpnqnotice_list     |
+| a_tn2_allvpnqnotice_re       |
+| a_tn2_anyvpndata_ad          |
+| a_tn2_anyvpndata_cnt         |
+| a_tn2_anyvpndata_list        |
+| a_tn2_anyvpndata_re          |
+| a_tn2_anyvpnfaq_ad           |
+| a_tn2_anyvpnfaq_cnt          |
+| a_tn2_anyvpnfaq_list         |
+| a_tn2_anyvpnfaq_re           |
+| a_tn2_anyvpnfree_ad          |
+| a_tn2_anyvpnfree_cnt         |
+| a_tn2_anyvpnfree_list        |
+| a_tn2_anyvpnfree_re          |
+| a_tn2_anyvpnnotice_ad        |
+| a_tn2_anyvpnnotice_cnt       |
+| a_tn2_anyvpnnotice_list      |
+| a_tn2_anyvpnnotice_re        |
+| a_tn2_anyvpnqnotice_ad       |
+| a_tn2_anyvpnqnotice_cnt      |
+| a_tn2_anyvpnqnotice_list     |
+| a_tn2_anyvpnqnotice_re       |
+| a_tn2_bomul_ad               |
+| a_tn2_bomul_cnt              |
+| a_tn2_bomul_list             |
+| a_tn2_bomul_re               |
+| a_tn2_channel_ad             |
+| a_tn2_channel_cnt            |
+| a_tn2_channel_list           |
+| a_tn2_channel_re             |
+| a_tn2_custom_ad              |
+| a_tn2_custom_cnt             |
+| a_tn2_custom_list            |
+| a_tn2_custom_re              |
+| a_tn2_sjipdata_ad            |
+| a_tn2_sjipdata_cnt           |
+| a_tn2_sjipdata_list          |
+| a_tn2_sjipdata_re            |
+| a_tn2_sjipfaq_ad             |
+| a_tn2_sjipfaq_cnt            |
+| a_tn2_sjipfaq_list           |
+| a_tn2_sjipfaq_re             |
+| a_tn2_sjipnotice_ad          |
+| a_tn2_sjipnotice_cnt         |
+| a_tn2_sjipnotice_list        |
+| a_tn2_sjipnotice_re          |
+| a_tn2_sjippopup_ad           |
+| a_tn2_sjippopup_cnt          |
+| a_tn2_sjippopup_list         |
+| a_tn2_sjippopup_re           |
+| a_tn2_sjipqna_ad             |
+| a_tn2_sjipqna_cnt            |
+| a_tn2_sjipqna_list           |
+| a_tn2_sjipqna_re             |
+| a_tn2_support_ad             |
+| a_tn2_support_cnt            |
+| a_tn2_support_list           |
+| a_tn2_support_re             |
+| a_tn2_winneripdata_ad        |
+| a_tn2_winneripdata_cnt       |
+| a_tn2_winneripdata_list      |
+| a_tn2_winneripdata_re        |
+| a_tn2_winneripedata_ad       |
+| a_tn2_winneripedata_cnt      |
+| a_tn2_winneripedata_list     |
+| a_tn2_winneripedata_re       |
+| a_tn2_winneripeqna_ad        |
+| a_tn2_winneripeqna_cnt       |
+| a_tn2_winneripeqna_list      |
+| a_tn2_winneripeqna_re        |
+| a_tn2_winneripfaq_ad         |
+| a_tn2_winneripfaq_cnt        |
+| a_tn2_winneripfaq_list       |
+| a_tn2_winneripfaq_re         |
+| a_tn2_winneripnotice_ad      |
+| a_tn2_winneripnotice_cnt     |
+| a_tn2_winneripnotice_list    |
+| a_tn2_winneripnotice_re      |
+| a_tn2_winneripqna_ad         |
+| a_tn2_winneripqna_cnt        |
+| a_tn2_winneripqna_list       |
+| a_tn2_winneripqna_re         |
+| a_tn2_yooboard_ad            |
+| a_tn2_yooboard_cnt           |
+| a_tn2_yooboard_list          |
+| a_tn2_yooboard_re            |
+| a_tn2_yoofaq_ad              |
+| a_tn2_yoofaq_cnt             |
+| a_tn2_yoofaq_list            |
+| a_tn2_yoofaq_re              |
+| a_tn2_yoomember_ad           |
+| a_tn2_yoomember_cnt          |
+| a_tn2_yoomember_list         |
+| a_tn2_yoomember_re           |
+| a_tn3_SJIP_ad                |
+| a_tn3_SJIP_list              |
+| a_tn3_SJIP_loginer           |
+| a_tn3_SJIP_msg               |
+| a_tn3_SJIP_msg_keep          |
+| a_tn3_SJIP_msg_mylist        |
+| a_tn3_SJIP_note              |
+| a_tn3_SJIP_point             |
+| a_tn3_SJIP_scrap             |
+| a_tn3_SJIP_sms               |
+| a_tn3_WINNERIP_ad            |
+| a_tn3_WINNERIP_list          |
+| a_tn3_WINNERIP_loginer       |
+| a_tn3_WINNERIP_msg           |
+| a_tn3_WINNERIP_msg_keep      |
+| a_tn3_WINNERIP_msg_mylist    |
+| a_tn3_WINNERIP_note          |
+| a_tn3_WINNERIP_point         |
+| a_tn3_WINNERIP_scrap         |
+| a_tn3_WINNERIP_sms           |
+| a_tn3_memberboard_ad         |
+| a_tn3_memberboard_list       |
+| a_tn3_memberboard_loginer    |
+| a_tn3_memberboard_msg        |
+| a_tn3_memberboard_msg_keep   |
+| a_tn3_memberboard_msg_mylist |
+| a_tn3_memberboard_note       |
+| a_tn3_memberboard_point      |
+| a_tn3_memberboard_scrap      |
+| a_tn3_memberboard_sms        |
+| a_tn3_yoomemboard_ad         |
+| a_tn3_yoomemboard_list       |
+| a_tn3_yoomemboard_loginer    |
+| a_tn3_yoomemboard_msg        |
+| a_tn3_yoomemboard_msg_keep   |
+| a_tn3_yoomemboard_msg_mylist |
+| a_tn3_yoomemboard_note       |
+| a_tn3_yoomemboard_point      |
+| a_tn3_yoomemboard_scrap      |
+| a_tn3_yoomemboard_sms        |
++------------------------------+
