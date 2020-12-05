@@ -1,0 +1,16 @@
+.org organization
+
+.gr Greece
+
+Hellenic Republic - Ministry of Health
+
+Panhellenic Association of Occupational Therapists
+
+https://pse.org.gr/news.php?id=123
+
+the back-end DBMS: MySQL >= 5.0.12
+
+available databases [3]:
+[+] information_schema
+[+] ergoth_mitroo
+[+] test
