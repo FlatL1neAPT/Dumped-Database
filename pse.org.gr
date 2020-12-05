@@ -14,3 +14,19 @@ available databases [3]:
 [+] information_schema
 [+] ergoth_mitroo
 [+] test
+
+Database: ergoth_mitroo
+[11 tables]
++------------------+
+| alerts           |
+| apodiksi         |
+| apodiksi_det     |
+| apodiksipl       |
+| apodiksipl_det   |
+| categories_news  |
+| categories_photo |
+| county           |
+| county_nomos     |
+| files            |
+| keimena          |
++------------------
