@@ -1,6 +1,6 @@
 .gov government
 
-.by Belarus ( White Russia )
+.ru Russia
 
 Federal Agency for Tourism
 
