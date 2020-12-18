@@ -1,3 +1,7 @@
+.org organization
+
+.ua Ukraine
+
 The solution of Chertov Vorobyov | chertov.org.ua
 
 https://www.chertov.org.ua/viewparagrafs.php?id=2 
