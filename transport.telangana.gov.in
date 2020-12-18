@@ -6,6 +6,8 @@ Transport Department Government Of Telangana - India
 
 https://transport.telangana.gov.in/html/faq.php?cat=1
 
+the back-end DBMS: MySQL >= 5.0.12
+
 available databases [2]:
 [+] information_schema
 [+] telangan_db
