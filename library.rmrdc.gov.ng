@@ -1,0 +1,46 @@
+.gov government
+
+.ng Nigeria
+
+RMRDC Library
+
+http://library.rmrdc.gov.ng/books.php?cat=Magazines
+
+the back-end DBMS: MySQL >= 5.0.12
+
+available databases [3]:
+[+] information_schema
+[+] rmrdcadv
+[+] test
+
+Database: rmrdcadv
+[27 tables]
++--------------+
+| authors      |
+| awards       |
+| book_author  |
+| books        |
+| cart         |
+| categories   |
+| coments      |
+| departments  |
+| division     |
+| env          |
+| env_sub      |
+| industries   |
+| lga          |
+| machine      |
+| news         |
+| occ          |
+| overview     |
+| policy       |
+| projects     |
+| raw_material |
+| reference    |
+| sales        |
+| shelf        |
+| states       |
+| subscribers  |
+| trade        |
+| users        |
++--------------+
