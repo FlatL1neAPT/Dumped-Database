@@ -15,8 +15,9 @@ available databases [2]:
 [+] information_schema
 
 Database: imesg_db_utf
-[9 tables]
+[19 tables]
 +----------------------+
+| we_root^             |
 | we_access_list       |
 | we_access_type       |
 | we_attach_file_types |
@@ -26,4 +27,13 @@ Database: imesg_db_utf
 | we_info_node_images  |
 | we_info_sort_expr    |
 | we_info_sort_type    |
+| we_info_var_int      |
+| we_info_var_string   |
+| we_main_groups       |
+| we_main_type         |
+| we_main_var_float    |
+| we_main_var_int      |
+| we_main_var_string   |
+| we_main_visit_log    |
+| we_nav_type          |
 +----------------------+
