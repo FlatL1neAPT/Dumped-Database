@@ -1,0 +1,49 @@
+.gov Government
+
+.bt Bhutan
+
+Royal Bhutan Police.
+
+https://www.rbp.gov.bt/newsindex.php?mod_news_id=185
+
+the back-end DBMS: MySQL >= 5.0.12 (MariaDB fork)
+
+available databases [2]:
+[+] information_schema
+[+] rbp_DB
+
+Database: rbp_DB
+[22 tables]
++-----------------+
+| month           |
+| user            |
+| announcement    |
+| ekuensel        |
+| fop             |
+| image           |
+| mfound          |
+| missing         |
+| missing_db      |
+| missingperson   |
+| news            |
+| news_db         |
+| notification_db |
+| posypp          |
+| properties      |
+| pypp            |
+| tblfeedback     |
+| tender          |
+| vacancy         |
+| wanted          |
+| wanted_db       |
+| wfound          |
++-----------------+
+
+Database: rbp_DB
+Table: user
+[1 entry]
++-----+------------+----------+
+| uid | password   | username |
++-----+------------+----------+
+| 1   | Brbp@db10  | admin    |
++-----+------------+----------+
