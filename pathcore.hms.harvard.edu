@@ -1,0 +1,91 @@
+.edu Education
+
+Harvard Medical Area Core Management System
+
+https://pathcore.hms.harvard.edu/catalog/index.php?cmd=print_catalog&node_id=1&core_id=1
+
+the back-end DBMS: PostgreSQL
+
+available databases [1]:
+[+] public
+
+Database: public
+[76 tables]
++----------------------------+
+| location                   |
+| accession                  |
+| antibody                   |
+| billingcode                |
+| calendar                   |
+| casenumber                 |
+| contact                    |
+| core                       |
+| core_equipment             |
+| corecontacts               |
+| corecoordinator            |
+| coreservices               |
+| coreuser                   |
+| counterstain               |
+| dfhccprogram               |
+| discounthistory            |
+| equipment                  |
+| fixative                   |
+| fundingsource              |
+| fundingtype                |
+| iacuc                      |
+| ihc                        |
+| ihcchild                   |
+| invoice                    |
+| invoicecases               |
+| invoicegenerationhistory   |
+| invoicehistory             |
+| invoicepayments            |
+| invoicepaymenttype         |
+| invoicesavedcontacts       |
+| irb                        |
+| lookup_aperio              |
+| lookup_fixative            |
+| lookup_hx_stain            |
+| lookup_if                  |
+| lookup_ihc                 |
+| lookup_sample_type         |
+| lookup_species             |
+| lookup_storage_soln        |
+| lookup_tissue_type         |
+| mega_core                  |
+| news                       |
+| node                       |
+| nodehistory                |
+| nodeitemunits              |
+| noderelations              |
+| nodetype                   |
+| organization               |
+| organizationgroups         |
+| orgsremoved                |
+| preservation               |
+| pricehistory               |
+| principleinvestigator      |
+| programpimembers           |
+| project                    |
+| projectfundingsources      |
+| projectscientist           |
+| projectstatus              |
+| retreivalmethod            |
+| reviewedby                 |
+| sample_services            |
+| services                   |
+| softwaredeployment         |
+| species                    |
+| systemtest                 |
+| technician                 |
+| technicianprotocol         |
+| techworksheet              |
+| techworksheetdetail        |
+| techworksheetprotocolsused |
+| tmcprogram                 |
+| tmcprogrampimembers        |
+| users                      |
+| workrequest                |
+| workrequestlineitem        |
+| workstatus                 |
++----------------------------+
