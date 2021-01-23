@@ -1,4 +1,4 @@
-.org establishment , organization
+.org Establishment Organization
 
 UPC Austria GmbH
 
