@@ -1,0 +1,320 @@
+.gov Government
+
+.dz Algeria
+
+People & apos; s Democratic Republic of Algeria
+
+Ministry of Public Works
+
+http://www.mtp.gov.dz/article.php?id_article=10059
+
+the back-end DBMS: MySQL >= 5.0.12 (MariaDB fork)
+
+available databases [8]:
+[+] ae
+[+] brq_trp
+[+] information_schema
+[+] mtp2011
+[+] mtp_site
+[+] mysql
+[+] performance_schema
+[+] test
+
+Database: mysql
+[24 tables]
++---------------------------------------+
+| db                                    |
+| event                                 |
+| user                                  |
+| columns_priv                          |
+| func                                  |
+| general_log                           |
+| help_category                         |
+| help_keyword                          |
+| help_relation                         |
+| help_topic                            |
+| host                                  |
+| ndb_binlog_index                      |
+| plugin                                |
+| proc                                  |
+| procs_priv                            |
+| proxies_priv                          |
+| servers                               |
+| slow_log                              |
+| tables_priv                           |
+| time_zone                             |
+| time_zone_leap_second                 |
+| time_zone_name                        |
+| time_zone_transition                  |
+| time_zone_transition_type             |
++---------------------------------------+
+
+Database: mtp_site
+[30 tables]
++---------------------------------------+
+| appels_sp                             |
+| articles                              |
+| doleances                             |
+| g_projets                             |
+| organigramme                          |
+| tdr                                   |
+| videos                                |
+| wp_commentmeta                        |
+| wp_comments                           |
+| wp_email                              |
+| wp_links                              |
+| wp_mediafromftp_log                   |
+| wp_news                               |
+| wp_nextend2_image_storage             |
+| wp_nextend2_section_storage           |
+| wp_nextend2_smartslider3_generators   |
+| wp_nextend2_smartslider3_sliders      |
+| wp_nextend2_smartslider3_sliders_xref |
+| wp_nextend2_smartslider3_slides       |
+| wp_options                            |
+| wp_postmeta                           |
+| wp_posts                              |
+| wp_term_relationships                 |
+| wp_term_taxonomy                      |
+| wp_termmeta                           |
+| wp_terms                              |
+| wp_usermeta                           |
+| wp_users                              |
+| wp_wonderplugin_carousel              |
+| wp_wprss_logs                         |
++---------------------------------------+
+
+Database: mtp2011
+[36 tables]
++---------------------------------------+
+| cache                                 |
+| comments                              |
+| configuration                         |
+| group                                 |
+| anorganigramme                        |
+| article_attachments                   |
+| article_images                        |
+| articles                              |
+| articles_revisions                    |
+| articles_schedule                     |
+| articles_stats                        |
+| articles_tags                         |
+| asset_file_types                      |
+| asset_files                           |
+| asset_keywords                        |
+| cache_tags                            |
+| categories                            |
+| cron                                  |
+| feeds                                 |
+| form_builder_fields                   |
+| form_builder_forms                    |
+| group_privileges                      |
+| group_user                            |
+| mail_queue                            |
+| mail_queue_seq                        |
+| organigramme                          |
+| organigrammear                        |
+| pages                                 |
+| poll_answers                          |
+| poll_questions                        |
+| related                               |
+| tags                                  |
+| tags_groups                           |
+| tags_to_tags_groups                   |
+| user_filters                          |
+| users                                 |
++---------------------------------------+
+
+Database: brq_trp
+[4 tables]
++---------------------------------------+
+| session                               |
+| parametres                            |
+| questionairebrq                       |
+| reponsebrq                            |
++---------------------------------------+
+
+Database: ae                                                                                                                                                         
+[2 tables]
++---------------------------------------+
+| questionairebrq                       |
+| reponsebrq                            |
++---------------------------------------+
+
+Database: mysql
+Table: user
+[6 entries]
++-----------------------+---------+-------------------------------------------+
+| Host                  | User    | Password                                  |
++-----------------------+---------+-------------------------------------------+
+| localhost             | root    | *C45237D95C6E7B720231570FF1E90EDFD757B39D |
+| localhost.localdomain | root    | *C45237D95C6E7B720231570FF1E90EDFD757B39D |
+| 127.0.0.1             | root    | *C45237D95C6E7B720231570FF1E90EDFD757B39D |
+| ::1                   | root    | *C45237D95C6E7B720231570FF1E90EDFD757B39D |
+| localhost             | <blank> | <blank>                                   |
+| localhost.localdomain | <blank> | <blank>                                   |
++-----------------------+---------+-------------------------------------------+
+
+Database: mtp_site
+Table: wp_users
+[6 entries]
++---------------+---------------+------------------------+------------------------------------+
+| user_login    | user_nicename | user_email             | user_pass                          |
++---------------+---------------+------------------------+------------------------------------+
+| aviation_mtpt | aviation_mtpt | chebbab@mtp.gov.dz     | $P$BNKX.PpNInsv1GHclrQOdzJgVCiZxb. |
+| belaidi       | belaidi       | belaidisaid@mtp.gov.dz | $P$B2ucGt15gaxpk.zjKS5JXOV/hIhRJn0 |
+| maamri        | maamri        | maamri@mtp.gov.dz      | $P$BI9eDcEhlSqgpwh2D/X3hbhlBKtk1A. |
+| chine         | chine         | chine@mtp.gov.dz       | $P$B8TjlKCiXbvVodIUGZIlhryIEZQC.U/ |
+| atailia       | atailia       | atailia@mtp.gov.dz     | $P$B0aHa37dJ2ry5gbVe17f0AOLYCbHf2/ |
+| chine7        | chine-2       | chine@mtp.gov.dz       | $P$B8TjlKCiXbvVodIUGZIlhryIEZQC.U/ |
++---------------+---------------+------------------------+------------------------------------+
+
+Database: mtp2011                                                                                                                                                    
+Table: users
+[142 entries]
++---------------------+-----------------------------------------------+---------------------------------+
+| username            | password                                      | email_address                   |
++---------------------+-----------------------------------------------+---------------------------------+
+| mtpadmin            | 9a4d2d5a0d65230ea2ea7c4182f7c98f              | chebbabmiloud@gmail.com         |
+| mkaled              | 6a403dd6d3187e4f63146131ac085ea0              | khaled.mouffok@gmail.com        |
+| english             | e83f1620873381f2bc9ed2c468c883b8              | t_mahdya@hotmail.com            |
+| mtpediteur          | a35fe1370e615053d0a76eb4a24f5e62              | editeur@mtp.gov.dz              |
+| ramla               | c0d7f5f250d80df3e8115a6366e470b2              | mtpcab2011@hotmail.fr           |
+| DtpSidibelabbes1    | 56989af76c2ed820007b8b9dd9237051              | mabed@mtp.gov.dz                |
+| dtp01               | 16fb9584a22807bc430168fefdc346b1              | k.mouffok@elkhabar.com          |
+| meghazi             | 301eaf7f83c7809bd54884426c8ff502              | meghazi@mtp.dz                  |
+| CHEBBAB             | 227dabd1e5226436e082bc8df2385dab              | chebbabmiloud@yahoo.fr          |
+| sara                | e10adc3949ba59abbe56e057f20f883e (123456)     | sara.berbara@yahoo.fr           |
+| naima               | 18e1979fc24b6aedcb2499d6fda9805e              | achour@mtp.gov.dz               |
+| Kheyar              | 2d0a71a384f450a4d11ec5d93a6614c6              | kheyar@mtp.gov.dz               |
+| medaouar            | e10adc3949ba59abbe56e057f20f883e (123456)     | medaouar@mtp.gov.dz             |
+| DtpSetif            | bf86429712b94287a4448ab281bbd6c7              | setif@mtp.gov.dz                |
+| DtpAdrar            | a211bda18ac19465bd914e4b5ca38a33              | adrar@mtp.gov.dz                |
+| DtpChlef            | 66fc3d7eb8c738eb7535bb4603870628              | chlef@mtp.gov.dz                |
+| DtpLaghouat         | 40ec989b9e20f0dccdf3c8316a9ffb67              | laghouat@mtp.gov.dz             |
+| DtpOumelbouaghi     | 97f4434dfe1e4f1d9f00d1e1496021ca              | oumelbouaghi@mtp.gov.dz         |
+| DtpBatna            | 25f9e794323b453885f5181f1b624d0b (123456789)  | batna@mtp.gov.dz                |
+| DtpBejaia           | a1773f4c60857aad5472953aca97e9da              | bejaia@mtp.gov.dz               |
+| DtpBiskra           | 3868dd3b4db9d7f1ba56d6b3459096fc              | biskra@mtp.gov.dz               |
+| DtpBechar           | 68e2b60b7e0bc64e642df184f473640c              | bechar@mtp.gov.dz               |
+| DtpBlida            | 21232f297a57a5a743894a0e4a801fc3 (admin)      | blida@mtp.gov.dz                |
+| DtpBouira           | 09ce4cd0476770bebc6fd17ce43abe00              | bouira@mtp.gov.dz               |
+| DtpTamanrasset      | e1e968cf106af1a1747377fa37526eeb              | tamanrasset@mtp.gov.dz          |
+| DtpTebessa          | 44216cacbb6537a8838c87a37ebc092b              | tebessa@mtp.gov.dz              |
+| DtpTlemcen          | 231ac97d4025663b7980e089c00fd45d              | tlemcen@mtp.gov.dz              |
+| DtpTiaret           | c118163b68f5900a9cf57b66028d8f00              | tiaret@mtp.gov.dz               |
+| DtpTiziouzou        | 20d3f14829a3d291b69ad3bbfc2671c0              | tiziouzou@mtp.gov.dz            |
+| DtpAlger            | 455e9a900513ae5151b8645570de8e0d              | alger@mtp.gov.dz                |
+| DtpDjelfa           | 315bc6923b8a2413d21608499164ff5d              | djelfa@mtp.gov.dz               |
+| DtpJijel            | 3b8926fa0395c197a2cba18888559e67              | jijel@mtp.gov.dz                |
+| DtpSaida            | 2417c5e778e7005d396afe9ec4d3f2d1              | saida@mtp.gov.dz                |
+| DtpSkikda           | 3a3625e5e9ae6031c57688ae783a09ef (skikda21)   | skikda@mtp.gov.dz               |
+| DtpSidibelabbes     | 68b4f7b669154d609b36bc199f928beb              | sidibelabbes@mtp.gov.dz         |
+| DtpAnnaba           | 71e977f687c8951fb6e8608eb36536a7              | annaba@mtp.gov.dz               |
+| DtpGuelma           | 9497ebfa1dda65ffb9c92a49817ab3ed              | guelma@mtp.gov.dz               |
+| DtpConstantine      | 04d5f23d3ac75e011a6a362e93212971              | constantine@mtp.gov.dz          |
+| DtpMedea            | 4f1f53103ede14ed28586116caa091c2              | medea@mtp.gov.dz                |
+| DtpMostaganeme      | 1e84c2e44ad6d68d3c7805217400583f              | mostaganeme@mtp.gov.dz          |
+| DtpMsila            | 30396ad9c50dfd5ba282d2019ee79163              | msila@mtp.gov.dz                |
+| DtpMascara          | 21232f297a57a5a743894a0e4a801fc3 (admin)      | mascara@mtp.gov.dz              |
+| DtpOuargla          | 961947830bdd434e116ddacce15f03e3              | ouargla@mtp.gov.dz              |
+| DtpOran             | ca2b336896f4be99988caf51bf211206              | oran@mtp.gov.dz                 |
+| DtpElbayadh         | 214564b367dc7aeebacea0e95593f691              | elbayadh@mtp.gov.dz             |
+| DtpIllizi           | ce0becded0535d729f9a3444e8451ae7              | illizi@mtp.gov.dz               |
+| Dtpbordjba          | 24e641d77a1ad9093a746178441ab681              | bordjba@mtp.gov.dz              |
+| DtpBoumerdes        | d5e01be98dbe74d0b515b7e54898865b              | boumerdes@mtp.gov.dz            |
+| DtpEltarf           | 63345dac1078bea30f00c8115fdf70fa              | eltarf@mtp.gov.dz               |
+| DtpTindouf          | 7e7ce501faf43b944ced37b6996b8e65 (021206)     | tindouf@mtp.gov.dz              |
+| DtpTissemsilt       | 88ac856b2aae8f4127796c66bd18bdcc              | tissemsilt@mtp.gov.dz           |
+| DtpEloued           | 65f274f4f10ea5f58b806ef61dd239fe              | eloued@mtp.gov.dz               |
+| DtpKhenchela        | 370dac553b925b26b5a7da1ff2f61ec5              | khenchela@mtp.gov.dz            |
+| DtpSoukahras        | 20645c9e617505741882aaa76a51c9d1 (04071977)   | soukahras@mtp.gov.dz            |
+| DtpTipaza           | 417824359fc672c30f547c83f1dd720f              | tipaza@mtp.gov.dz               |
+| DtpMila             | 30f192c3f6b2c35de168be252683a0d5              | mila@mtp.gov.dz                 |
+| DtpAindefla         | 00b916dc3c3de41fbb7d493a1e94d90d              | aindefla@mtp.gov.dz             |
+| DtpNaama            | 25fa54c59e1b72d82f8063d1d0e5b1fe              | naama@mtp.gov.dz                |
+| DtpAintemouchent    | be99eec1ffb18c20a0a402e4acb177e1              | aintemouchent@mtp.gov.dz        |
+| DtpGhadaia          | 25f9e794323b453885f5181f1b624d0b (123456789)  | ghardaia@mtp.gov.dz             |
+| DtpRelizane         | f1c2f693399d63fba638c4967fe58fb4              | relizane@mtp.gov.dz             |
+| Ana                 | ce4d4c219d8b5467f6b8008a5dc046e9              | ana@mtp.gov.dz                  |
+| Onsm                | 695d7baf40ab936e80f247953e07efee              | onsm@mtp.gov.dz                 |
+| Aga                 | d3a3027d55d4cc5be731814d446672c1              | aga@mtp.gov.dz                  |
+| Cttp                | 4533992c972152508db41e7e253065e3              | cttp@mtp.gov.dz                 |
+| kenza               | d67e8cdcb4167f54a083ed99270f4ce7              | espokenz@gmail.com              |
+| meriem              | e8d440203341b08cd02b0630f5c387ef              | tahiti21@hotmail.fr             |
+| sdpersonnel         | e9e7b62c48e5b330e917d3bfcccfc801              | dag@mtp.gov.dz                  |
+| yezli               | 25f9e794323b453885f5181f1b624d0b (123456789)  | yezli@mtp.gov.dz                |
+| miloud              | 9ec25f1c0f081576c4fe47e95b441f03              | chebbab@mtp.gov.dz              |
+| benali              | beaba8292d5b3089242c06f0d90e784f              | benali@mtp.gov.dz               |
+| saidi               | 83422503bcfc01d303030e8a7cc80efc (123456789a) | saidi@mtp.gov.dz                |
+| dtwoumelbouaghi     | 214564b367dc7aeebacea0e95593f691              | dtwoumelbouaghi@mtpt.gov.dz     |
+| dtwchlef            | 40ec989b9e20f0dccdf3c8316a9ffb67              | dtwchlef@mtpt.gov.dz            |
+| dtwlaghouat         | 214564b367dc7aeebacea0e95593f691              | dtwlaghouat@mtpt.gov.dz         |
+| dtwadrar            | fae3dc6719b3d3efcd9ca2d499826cbf              | dtwadrar@mtpt.gov.dz            |
+| dtwbatna            | 214564b367dc7aeebacea0e95593f691              | dtwbatna@mtpt.gov.dz            |
+| dtwbejaia           | 214564b367dc7aeebacea0e95593f691              | dtwbejaia@mtpt.gov.dz           |
+| dtwbiskra           | c1fec9e7745f24efc5bd3e4b26b6e30d              | dtwbiskra@mtpt.gov.dz           |
+| dtwbechar           | ee11c9b3b980c1a4b4e21fcbddf52722              | dtwbechar@mtpt.gov.dz           |
+| dtwblida            | 9db762119bd2e0c7d3c8ce4114f2281e              | dtwblida@mtpt.gov.dz            |
+| dtwbouira           | 856c26d8d05bac961a42178ee33764b4              | dtwbouira@mtpt.gov.dz           |
+| dtwtamanrasset      | 214564b367dc7aeebacea0e95593f691              | dtwtamanrasset@mtpt.gov.dz      |
+| dtwtebessa          | 214564b367dc7aeebacea0e95593f691              | dtwtebessa@mtpt.gov.dz          |
+| dtwtlemcen          | 3a1aba8427d1edf4fd6f5b2758a982d1              | dtwtlemcen@mtpt.gov.dz          |
+| dtwtiaret           | 214564b367dc7aeebacea0e95593f691              | dtwtiaret@mtpt.gov.dz           |
+| dtwtiziouzou        | 214564b367dc7aeebacea0e95593f691              | dtwtiziouzou@mtpt.gov.dz        |
+| dtwalger            | 214564b367dc7aeebacea0e95593f691              | dtwalger@mtpt.gov.dz            |
+| dtwdjelfa           | 214564b367dc7aeebacea0e95593f691              | dtwdjelfa@mtpt.gov.dz           |
+| dtwjijel            | 214564b367dc7aeebacea0e95593f691              | dtwjijel@mtpt.gov.dz            |
+| dtwsetif            | d82160e9b92d0d2b52d5b73deccfe3cc              | dtwsetif@mtpt.gov.dz            |
+| dtwsaida            | 214564b367dc7aeebacea0e95593f691              | dtwsaida@mtpt.gov.dz            |
+| dtwskikda           | 214564b367dc7aeebacea0e95593f691              | dtwskikda@mtpt.gov.dz           |
+| dtwsidibelabbes     | 214564b367dc7aeebacea0e95593f691              | dtwsidibelabbes@mtpt.gov.dz     |
+| dtwannaba           | 214564b367dc7aeebacea0e95593f691              | dtwannaba@mtpt.gov.dz           |
+| dtwguelma           | 214564b367dc7aeebacea0e95593f691              | dtwguelma@mtpt.gov.dz           |
+| dtwconstantine      | 214564b367dc7aeebacea0e95593f691              | dtwconstantine@mtpt.gov.dz      |
+| dtwmedea            | 1c8a1449cc0d45c4c26eabb4013e9b4b              | dtwmedea@mtpt.gov.dz            |
+| dtwmostaganem       | 5f1cb3147b536c2964688fbc348f4e51              | dtwmostaganem@mtpt.gov.dz       |
+| dtwmsila            | 214564b367dc7aeebacea0e95593f691              | dtwmsila@mtpt.gov.dz            |
+| dtwmascara          | 214564b367dc7aeebacea0e95593f691              | dtwmascara@mtpt.gov.dz          |
+| dtwouargla          | 331fab916f225b485594bb38d9c18762              | dtwouargla@mtpt.gov.dz          |
+| dtworan             | 214564b367dc7aeebacea0e95593f691              | dtworan@mtpt.gov.dz             |
+| dtwelbayadh         | 214564b367dc7aeebacea0e95593f691              | dtwelbayadh@mtpt.gov.dz         |
+| dtwillizi           | 214564b367dc7aeebacea0e95593f691              | dtwillizi@mtpt.gov.dz           |
+| dtwbordjbouarriredj | 214564b367dc7aeebacea0e95593f691              | dtwbordjbouarriredj@mtpt.gov.dz |
+| dtwboumerdes        | 214564b367dc7aeebacea0e95593f691              | dtwboumerdes@mtpt.gov.dz        |
+| dtweltarf           | 214564b367dc7aeebacea0e95593f691              | dtweltarf@mtpt.gov.dz           |
+| dtwtindouf          | 214564b367dc7aeebacea0e95593f691              | dtwtindouf@mtpt.gov.dz          |
+| dtwtissemsilt       | 214564b367dc7aeebacea0e95593f691              | dtwtissemsilt@mtpt.gov.dz       |
+| dtweloued           | 214564b367dc7aeebacea0e95593f691              | dtweloued@mtpt.gov.dz           |
+| dtwkhenchela        | 214564b367dc7aeebacea0e95593f691              | dtwkhenchela@mtpt.gov.dz        |
+| dtwsoukahras        | 214564b367dc7aeebacea0e95593f691              | dtwsoukahras@mtpt.gov.dz        |
+| dtwtipaza           | 214564b367dc7aeebacea0e95593f691              | dtwtipaza@mtpt.gov.dz           |
+| dtwmila             | ebc2d88bc58c22e8c172c5d9bbe61d63              | dtwmila@mtpt.gov.dz             |
+| dtwaindefla         | 214564b367dc7aeebacea0e95593f691              | dtwaindefla@mtpt.gov.dz         |
+| dtwnaama            | 214564b367dc7aeebacea0e95593f691              | dtwnaama@mtpt.gov.dz            |
+| dtwaintemouchent    | 214564b367dc7aeebacea0e95593f691              | dtwaintemouchent@mtpt.gov.dz    |
+| dtwghardaia         | 214564b367dc7aeebacea0e95593f691              | dtwghardaia@mtpt.gov.dz         |
+| dtwrelizane         | cec5f0686ad75475e542dd65b8e7517d              | dtwrelizane@mtpt.gov.dz         |
+| anesrif             | acba71a4a21ec1bb5043f21dc8a49d04              | anesrif@mtpt.gov.dz             |
+| sntf                | b2dd364876f0a3f4aa55698371497cbd              | sntf@mtpt.gov.dz                |
+| etusa               | 5f5d1a170438858ec7d6df839a32dea3              | etusa@mtpt.gov.dz               |
+| enna                | 7a8af26cfae9fee3ee34f6ad13e99dfb              | enna@mtpt.gov.dz                |
+| ema                 | 00c200a46de327a9e0642bf4290aa724              | ema@mtpt.gov.dz                 |
+| metro               | e10adc3949ba59abbe56e057f20f883e (123456)     | metro@mtp.gov.dz                |
+| gitrama             | 214564b367dc7aeebacea0e95593f691              | gitrama@mtpt.gov.dz             |
+| gitra               | 161b99e0432aee8d8d34aa928063cb72              | gitra@mtpt.gov.dz               |
+| geika               | 9ab1def3c682d94df218baf06ac22bd8              | geika@mtpt.gov.dz               |
+| serport             | 214564b367dc7aeebacea0e95593f691              | serport@mtpt.gov.dz             |
+| gatma               | a84ed8ce25325969a55edf07b8cf25a3              | gatma@mtpt.gov.dz               |
+| logitrans           | 214564b367dc7aeebacea0e95593f691              | logitrans@mtpt.gov.dz           |
+| transtev            | 214564b367dc7aeebacea0e95593f691              | transtev@mtpt.gov.dz            |
+| airalgerie          | 214564b367dc7aeebacea0e95593f691              | airalgerie@mtpt.gov.dz          |
+| onm                 | 214564b367dc7aeebacea0e95593f691              | onm@mtpt.gov.dz                 |
+| sgsia               | 214564b367dc7aeebacea0e95593f691              | sgsia@mtpt.gov.dz               |
+| egsaalger           | 214564b367dc7aeebacea0e95593f691              | egsaalger@mtpt.gov.dz           |
+| egsaconstantine     | fc4ecd83c08abaf4f81a0c60290a4778 (v2c47mk7jd) | egsaconstantine@mtpt.gov.dz     |
+| egsaoran            | 214564b367dc7aeebacea0e95593f691              | egsaoran@mtpt.gov.dz            |
+| ada                 | 4441e5d70b3657900fa57e66db407e0b              | ada@mtpt.gov.dz                 |
+| etac                | 214564b367dc7aeebacea0e95593f691              | etac@mtpt.gov.dz                |
+| setram              | 25093cf7f7c1d6bebfd67def4d194af4              | setram@mtpt.gov.dz              |
++---------------------+-----------------------------------------------+---------------------------------+
