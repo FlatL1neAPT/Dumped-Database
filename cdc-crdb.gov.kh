@@ -70,8 +70,9 @@ Table: tblaccount
 
 Database: cdccrdb_web
 Table: mysql
-+------------+---------+-------------+---------------+
-| server     | user    | database    | password      |
-|------------+---------+-------------+---------------+
-| localhost  | cdccrdb | cdccrdb_web | @cdccrdb$2020 |
-+------------+---------+-------------+---------------+
++------------+---------------+-------------+---------------+
+| server     | user          | database    | password      |
+|------------+---------------+-------------+---------------+
+| localhost  | cdccrdb       | cdccrdb_web | @cdccrdb$2020 |
+| localhost  | cdccrdb_admin | cdccrdb_web | @cdccrdb$2020 |
++------------+---------------+-------------+---------------+
