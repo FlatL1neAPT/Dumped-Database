@@ -1,6 +1,14 @@
+.net Network
+
 https://www.anyvpn.net/read2.php?id=104&no=0
 
 AnyVPN [SSL, SSTP, IKEv2] VPN
+
+web server operating system: Linux CentOS 6
+
+web application technology: Apache 2.2.15, PHP 5.2.17
+
+the back-end DBMS: MySQL >= 5.0.12
 
 available databases [6]:                                                                                                                                             
 [+] ball
