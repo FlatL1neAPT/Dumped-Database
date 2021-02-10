@@ -10,15 +10,11 @@ Wide range of equipment
 
 Remotely and onsite
 
-IP address: 5.23.51.100
-
-Host name: vh300.timeweb.ru
-
-Organization: TIMEWEB Co Ltd.
-
-Country: Russian Federation (RU)
-
 https://www.dmosk.ru/miniinstruktions.php?mini=network-netplan
+
+web application technology: PHP, Nginx 1.16.1
+
+the back-end DBMS: MySQL >= 5.0.12 (Percona fork)
 
 available databases [2]:                                                                                                                                             
 [+] dmosk_1
