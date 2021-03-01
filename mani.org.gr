@@ -8,7 +8,6 @@ Linux p5.isol-servers.net 3.10.0-862.14.4.el7.x86_64 #1 SMP Wed Sep 26 15:12:11 
 
 /var/www/vhosts/mani.org.gr/httpdocs
 
-
 http://www.mani.org.gr/showsection.php?sectionID=82
 
 the back-end DBMS is MySQL >= 5.0.12
