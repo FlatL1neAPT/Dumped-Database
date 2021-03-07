@@ -1,0 +1,44 @@
+.gov Government
+
+.bd Bangladesh
+
+Gurudayal Govt. College
+
+http://www.gdc.gov.bd/page.php?id=16
+
+web application technology: Apache
+the back-end DBMS: MySQL 5
+
+available databases [1]:
+[+] ggcbdinf_ion
+
+Database: ggcbdinf_ion
+[17 tables]
++--------------------------+
+| contact                  |
+| department               |
+| external_link            |
+| library                  |
+| menu                     |
+| page                     |
+| photo_album              |
+| photos                   |
+| scroller                 |
+| site                     |
+| slider                   |
+| students                 |
+| students_attendance      |
+| tbl_admin                |
+| teacher_staff            |
+| teacher_staff_attendance |
+| videos                   |
++--------------------------+
+
+Database: ggcbdinf_ion
+Table: tbl_admin
+[1 entry]
++----------+------------+---------------------------+--------------------------------------------------------------+
+| fullname | mobile     | email                     | password                                                     |
++----------+------------+---------------------------+--------------------------------------------------------------+
+| Admin    | 1710676814 | gdgckishoreganj@gmail.com | $2y$10$4kijV/FHypUwzu4IuHwIquMj2fH8l0XBVxmSiy14zg7qxSFlZ79Wq |
++----------+------------+---------------------------+--------------------------------------------------------------+
