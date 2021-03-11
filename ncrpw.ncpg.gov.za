@@ -14,6 +14,10 @@ Republic Of South Africa
 
 http://ncrpw.ncpg.gov.za/tenders.php?id=1
 
+web server operating system: Windows 7 or 2008 R2
+web application technology: ASP.NET, Microsoft IIS 7.5
+the back-end DBMS: MySQL >= 5.0.12
+
 available databases [5]:
 [+] drpw_db_new
 [+] information_schema
