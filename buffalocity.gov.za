@@ -17,6 +17,41 @@ back-end DBMS: MySQL >= 5.0.12
 [+] performance_schema
 [+] sys
 
+Database: freshproduce
+[30 tables]
++--------------------------+
+| about_us                 |
+| activity_log             |
+| agents                   |
+| buyers_buying_lost_cards |
+| buyers_buying_process    |
+| comm_market              |
+| contacts                 |
+| csrf                     |
+| faqs                     |
+| gallery                  |
+| hours_work               |
+| hours_work_buyers        |
+| hours_work_producer      |
+| news                     |
+| news_latest              |
+| office_hours_work        |
+| other_services           |
+| partners                 |
+| product_cat              |
+| product_stats            |
+| products                 |
+| products_test            |
+| scroll_videos            |
+| security_safety          |
+| signup                   |
+| slides                   |
+| subject                  |
+| team                     |
+| user_queries             |
+| web_visits               |
++--------------------------+
+
 Database: buffaloc_projectt_bcmapp
 [65 tables]
 +--------------------------+
