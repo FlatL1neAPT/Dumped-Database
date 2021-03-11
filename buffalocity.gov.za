@@ -1,6 +1,6 @@
 .gov  Government 	 
 
-.za 	South Africa (Zuid Afrika)
+.za South Africa (Zuid Afrika)
 
 Buffalo City Metropolitan Municipality
 
@@ -186,10 +186,15 @@ Table: admin
 | Lindelwa      | Cebanto         | N/A             | lindelwac@buffalocity.gov.za           | f389bf446a562d5625aa9ed083bc2c40 |
 +---------------+-----------------+-----------------+----------------------------------------+----------------------------------+
 
-+------------+---------+---------+-----------------------------+----------------------------------------------------------+
-| cell       | name    | surname | email                       | password                                                 |
-+------------+---------+---------+-----------------------------+----------------------------------------------------------+
-| 0782256699 | Anele   | Mabona  | anelema@gmail.com           | T25KU3pNeXlra0w0QTl5U0I2SlBRZz09OjpUxaEg19ThJxYWzRtW+1iM |
-| 3070       | Tembela | Siswana | tembelas@buffalocity.gov.za | SVJvZWNxbUNDakZZaHViOHlRNllCdz09Ojo8xGgWaeVzpRz4/nJrARTx |
-| 3262       | Demo    | User    | info@buffalocity.gov.za     | NkRFSS96WG56Y1lxSEVqK2Q3T2tPdz09OjoerAniP5ccItqOBe9SR+ZP |
-+------------+---------+---------+-----------------------------+----------------------------------------------------------+
+Database: freshproduce
+Table: signup
+[4 entries]
++-----------+---------+---------------+-------------------------------+----------------------------------------------------------+
+| name      | surname | cell          | email                         | password                                                 |
++-----------+---------+---------------+-------------------------------+----------------------------------------------------------+
+| Anele     | Mabona  | 0782256699    | anelema@gmail.com             | T25KU3pNeXlra0w0QTl5U0I2SlBRZz09OjpUxaEg19ThJxYWzRtW+1iM |
+| Tembela   | Siswana | 3070          | tembelas@buffalocity.gov.za   | SVJvZWNxbUNDakZZaHViOHlRNllCdz09Ojo8xGgWaeVzpRz4/nJrARTx |
+| Zipho     | Tafane  | 0437059500    | ziphot@buffalocity.gov.za     | b1hwTUNMeUltRGU0YXd0RFFsTXpndz09OjphEQAhsxqCQBknwyadHfRv |
+| Khuthazwa | Noqayi  | 043 705  9514 | khuthazwan@buffalocity.gov.za | MGpHUmRiZTdIdDBCM3IrN09HSmtDdz09OjoetgICScmPnFpwGjN3z9XW |
+| 3262       | Demo    | User    | info@buffalocity.gov.za     | NkRFSS96WG56Y1lxSEVqK2Q3T2tPdz09OjoerAniP5ccItqOBe9SR+ZP        |
++-----------+---------+---------------+-------------------------------+----------------------------------------------------------+
