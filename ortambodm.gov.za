@@ -12,3 +12,53 @@ the back-end DBMS: MySQL >= 5.0.12
 available databases [2]:
 [+] information_schema
 [+] ortambod_ortambo_website
+
+Database: ortambod_ortambo_website
+[45 tables]
++--------------------------+
+| activity_log             |
+| admin                    |
+| awarded_tenders          |
+| background               |
+| contact                  |
+| councillors              |
+| department               |
+| department_head          |
+| department_secretary     |
+| department_sub           |
+| eme_affidavits           |
+| events                   |
+| failed_login             |
+| faqs                     |
+| files                    |
+| folder                   |
+| gallery                  |
+| gallery_sub              |
+| local_mun                |
+| mayor_mandate            |
+| mayor_profile            |
+| mbd_forms                |
+| mc                       |
+| media_statements         |
+| news                     |
+| newsletters              |
+| opportunities_bursaries  |
+| password_change_requests |
+| privacy                  |
+| public_notices           |
+| scm_notices              |
+| service_departments      |
+| speeches                 |
+| stats                    |
+| subfolder                |
+| tender_closing_registers |
+| tender_files             |
+| tender_openings          |
+| tenders                  |
+| terms                    |
+| terms_of_reference       |
+| tourism                  |
+| vacancies                |
+| vacancy_info             |
+| videos                   |
++--------------------------+
