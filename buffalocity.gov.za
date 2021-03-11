@@ -17,6 +17,76 @@ back-end DBMS: MySQL >= 5.0.12
 [+] performance_schema
 [+] sys
 
+Database: buffaloc_projectt_bcmapp
+[65 tables]
++--------------------------+
+| about_bcmm               |
+| activity_log             |
+| additional_user_accounts |
+| admin                    |
+| awarded_tenders          |
+| business                 |
+| chat_box                 |
+| contact_details          |
+| contact_us               |
+| customer_care            |
+| departments              |
+| directorates             |
+| emergencies              |
+| eservices                |
+| events                   |
+| executive_mayor          |
+| failed_login             |
+| faqs                     |
+| fault_departments        |
+| feedback                 |
+| files                    |
+| folder                   |
+| fraud_hotline            |
+| gallery                  |
+| idp_input                |
+| incidents                |
+| mayor_mandate            |
+| mayor_profile            |
+| mc                       |
+| media_contacts           |
+| media_statements         |
+| mpac                     |
+| news                     |
+| newsletters              |
+| notifications            |
+| opportunities_bursaries  |
+| password_change_requests |
+| people                   |
+| pr                       |
+| privacy                  |
+| public_notices           |
+| query_reply              |
+| ref_chat_box             |
+| ref_generator            |
+| ref_table                |
+| residents                |
+| resource_documents       |
+| scroll_videos            |
+| service_departments      |
+| signup                   |
+| speeches                 |
+| subfolder                |
+| survey_answer_options    |
+| survey_answers           |
+| survey_questions         |
+| surveys                  |
+| tender_openings          |
+| tenders                  |
+| terms                    |
+| user_accounts            |
+| users                    |
+| vacancies                |
+| ward                     |
+| ward_emails              |
+| web_tv                   |
++--------------------------+
+
 +------------+---------+---------+-----------------------------+----------------------------------------------------------+
 | cell       | name    | surname | email                       | password                                                 |
 +------------+---------+---------+-----------------------------+----------------------------------------------------------+
