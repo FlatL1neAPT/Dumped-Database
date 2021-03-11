@@ -62,3 +62,25 @@ Database: ortambod_ortambo_website
 | vacancy_info             |
 | videos                   |
 +--------------------------+
+
+Database: ortambod_ortambo_website
+Table: admin
+[14 entries]
++---------------+----------------+------------+---------------------------+----------------------------------+
+| name          | surname        | cell       | email                     | password                         |
++---------------+----------------+------------+---------------------------+----------------------------------+
+| OR            | Communications | 0723188035 | info@ortambodm.gov.za     | f389bf446a562d5625aa9ed083bc2c40 |
+| Lwazi         | Mgolozeli      | 0474012345 | lwazim@ortambodm.gov.za   | f3408ddfd96e4766d3bd2c5d72ac2608 |
+| Luvo          | Tshefu         | 0474012345 | luvot@ortambodm.gov.za    | 694e34b8635dc2760a7c523b89c39f7c |
+| Kwasi         | Asare-Baah     | 0815740488 | kwasi@profeciait.co.za    | 298b6561c2902a3719eb850cecc103fd |
+| Sisanda       | Mbodlela       | 0723188035 | sisanda@profeciait.co.za  | f389bf446a562d5625aa9ed083bc2c40 |
+| Sisa          | Mpehle         | 0607838032 | sisamp@ortambodm.gov.za   | f389bf446a562d5625aa9ed083bc2c40 |
+| Zimkhita      | Macingwana     | 0821234568 | zimkhitatalks@gmail.com   | 6be4c4eb57d5968e36a622d96124e335 |
+| Zuko          | mpati          | 0732457895 | zmpati@gmail.com          | 5ee7c3b0627e161a356f901565028285 |
+| Lebo          | Admin          | 0821234568 | lebo@gmail.com            | c0b9347041e8e76cb72aaf95f3ffa012 |
+| Communication | Admin          | 0821234568 | sisandambodlela@gmail.com | d4b67922d9a88d9a707aabcaeb933bdd |
+| Asiphe        | Vuke           | 0821234568 | asiphevuke@gmail.com      | 5a1a936175f560510885a8b6dff4fa2e |
+| Zimasa        | Jim            | 0821234568 | zimasajim@gmail.com       | 688ce53d6487932079ebb583bbd627c6 |
+| Sandi         | Majavu         | 0821234568 | sandim@ortambodm.gov.za   | cabb525a8e6fa0c1e7e65cc098e146a9 |
+| Noxolo        | Mbulawa        | 0821234568 | noxolombulawa@gmail.com   | bfc6d44f69203dd1b360f522335131c6 |
++---------------+----------------+------------+---------------------------+----------------------------------+
