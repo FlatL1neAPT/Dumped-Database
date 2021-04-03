@@ -1,0 +1,27 @@
+.gov government
+
+.kh Cambodia (Khmer)
+
+National Center For Parasitology Entomology And Malaria Control
+
+https://cnm.gov.kh/index.php?action=ID80
+
+the back-end DBMS is MySQL
+web application technology: PHP, Apache
+the back-end DBMS: MySQL >= 5.0.12
+
+available databases [2]:
+[+] cnmgov_CnMCam
+[+] information_schema
+
+Database: cnmgov_CnMCam
+[7 tables]
++---------------+
+| articles      |
+| box_right     |
+| gallery       |
+| langauges     |
+| menus         |
+| sub_menus     |
+| sub_sub_menus |
++---------------+
