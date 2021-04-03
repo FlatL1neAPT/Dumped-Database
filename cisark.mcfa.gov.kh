@@ -60,7 +60,6 @@ Table: utilisateurs
 +-------------------+----------------+----------------------+-----------------+-------------------------------------------+--------------+
 | fname             | lname          | phone                | login           | mail                                      | pwd          |
 +-------------------+----------------+----------------------+-----------------+-------------------------------------------+--------------+
-[13:47:22] [WARNING] console output will be trimmed to last 256 rows due to large table size
 | SANTONI           | Marielle       | 0153269013           | mariellle       | marielle.santoni@free.fr                  | guimet       |
 | Taing             | Manica         | 0663557321           | manica          | siemreap2@yahoo.fr                        | efeoca       |
 | HAWIWBROCK        | Chistine       | 0683596404           | christine       | christinehawk@tele2.fr                    | vatphu       |
