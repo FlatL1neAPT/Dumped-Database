@@ -12,6 +12,11 @@ Organization: Institute of Technology of Cambodia
 
 https://cisark.mcfa.gov.kh/core/showsite.php?id=1187
 
+the back-end DBMS is MySQL
+web server operating system: Linux Debian 9 (stretch)
+web application technology: PHP, Apache 2.4.25, PHP 5.6.33
+the back-end DBMS: MySQL >= 5.0.12 (MariaDB fork)
+
 available databases [2]:                                                                                                                                             
 [+] c0cisark
 [+] information_schema
