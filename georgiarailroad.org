@@ -1,0 +1,29 @@
+.org organization
+
+.ge Georgia
+
+GRA Georgia Railroad Association Association Inc.
+
+https://www.georgiarailroad.org/services.php?cat=DerailmentServices
+
+the back-end DBMS is MySQL
+web application technology: PHP 7.0.33, Apache
+the back-end DBMS: MySQL >= 5.0.0
+banner: '5.6.49-cll-lve'
+
+available databases [2]:                                                                                                                                              
+[+] GRA_DB
+[+] information_schema
+
+Database: GRA_DB
+[8 tables]
++----------------+
+| Associates     |
+| BannerAds      |
+| CategoryLookup |
+| Class1         |
+| Directors      |
+| Executives     |
+| Management     |
+| Shortline      |
++----------------+
