@@ -6,6 +6,8 @@ Putivl City Council - official site
 
 http://putivl-rada.gov.ua/doc.php?cat=vybor2020
 
+the back-end DBMS is MySQL
+web application technology: PHP, PHP 5.6.40, Apache 2
 the back-end DBMS: MySQL >= 5.0.12
 
 available databases [2]:
