@@ -8,6 +8,8 @@ Yakymivka District State Administration
 
 http://akim.gov.ua/index.php?page=page&id=16
 
+the back-end DBMS is MySQL
+web application technology: Nginx 1.14.2, PHP 5.3.29
 the back-end DBMS: MySQL >= 4.1
 
 available databases [3]:  
