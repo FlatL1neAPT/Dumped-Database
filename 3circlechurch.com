@@ -6,7 +6,10 @@ Evangelist Church
 
 https://www.3circlechurch.com/current-series.php?id=rivers
 
+the back-end DBMS is MySQL
+web application technology: Nginx 1.14.2, PHP 5.3.29
 the back-end DBMS: MySQL >= 5.0.12
+the back-end DBMS: MySQL >= 4.1
 
 available databases [37]:                                                                                                                                            
 [*] informationschema
