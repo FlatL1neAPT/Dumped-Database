@@ -13,6 +13,7 @@ http://www.mudp.gov.bd/photo-gallery.php?id=18
 the back-end DBMS is MySQL
 web application technology: Apache
 the back-end DBMS: MySQL >= 5.0 (MariaDB fork)
+banner: '10.2.37-MariaDB-cll-lve'
 
 available databases [2]:
 [+] information_schema
