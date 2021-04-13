@@ -1,0 +1,58 @@
+.gov Government
+
+.bd Bangladesh
+
+Mirsharai Upazila Development Plan (MUDP)
+
+Ministry of Housing & Public Works
+
+Urban Development Directorate (UDD). 
+
+http://www.mudp.gov.bd/photo-gallery.php?id=18
+
+the back-end DBMS is MySQL
+web application technology: Apache
+the back-end DBMS: MySQL >= 5.0 (MariaDB fork)
+
+available databases [2]:
+[+] information_schema
+[+] mudpgov_database
+
+Database: mudpgov_database
+[25 tables]
++--------------------+
+| membership         |
+| tbl_activities     |
+| tbl_banner         |
+| tbl_conference     |
+| tbl_documents      |
+| tbl_gis_map        |
+| tbl_intern         |
+| tbl_link           |
+| tbl_map            |
+| tbl_map_category   |
+| tbl_news           |
+| tbl_notice         |
+| tbl_photo_album    |
+| tbl_photo_gallery  |
+| tbl_pra_album      |
+| tbl_pra_gallery    |
+| tbl_pra_reports    |
+| tbl_presentation   |
+| tbl_reports        |
+| tbl_seminar        |
+| tbl_team           |
+| tbl_tender         |
+| tbl_video          |
+| tbl_video_archieve |
+| tbl_workshop       |
++--------------------+
+
+Database: mudpgov_database                                                                                                                                           
+Table: membership
+[1 entry]
++--------------+----------+-------------------------------------------+
+| name         | username | password                                  |
++--------------+----------+-------------------------------------------+
+| Administator | admin    | e10adc3949ba59abbe56e057f20f883e (123456) |
++--------------+----------+-------------------------------------------+
